@@ -1,0 +1,57 @@
+id,restaurant,category,item_name,price,res_id
+1,Namo Sandwich,Burgers & Sandwiches,Regular Sandwich,135,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+2,Namo Sandwich,Burgers & Sandwiches,Masala Regular Sandwich,135,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+3,Namo Sandwich,Burgers & Sandwiches,Cheese Chutney Sandwich,170,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+4,Namo Sandwich,Burgers & Sandwiches,Corn Cheese Sandwich,200,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+5,Namo Sandwich,Burgers & Sandwiches,Double Cheese Chutney Sandwich,235,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+6,Namo Sandwich,Burgers & Sandwiches,Garlic Cheese Chutney Sandwich,170,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+7,Namo Sandwich,Pizza Sandwiches,Corn Pizza Sandwich,200,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+8,Namo Sandwich,Pizza Sandwiches,Italian Pizza Sandwich,185,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+9,Namo Sandwich,Pizza Sandwiches,Mexican Pizza Sandwich,185,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+10,Namo Sandwich,Pizza Sandwiches,Paneer Pizza Sandwich,235,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+11,Namo Sandwich,Pizza Sandwiches,Pizza Sandwich,170,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+12,Namo Sandwich,Tandoori Sandwiches,Mini Tandoori Sandwich,200,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+13,Namo Sandwich,Tandoori Sandwiches,Tandoori Cheese Paneer Sandwich,300,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+14,Namo Sandwich,Tandoori Sandwiches,Tandoori Masala Cheese Sandwich,220,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+15,Namo Sandwich,Tandoori Sandwiches,Tandoori Masala Paneer Sandwich,200,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+16,Namo Sandwich,Spicy Sandwiches,Chilli Cheese Spicy Sandwich,200,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+17,Namo Sandwich,Burgers,Mexican Cheese Burger,185,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+18,Namo Sandwich,Burgers,Tangy Cheese Burger,170,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+19,Namo Sandwich,Burgers,Veg Burger,135,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+20,Namo Sandwich,Burgers,Veg Cheese Burger,170,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+21,Bake N Shake,Main Course,Hungarian Baked Chicken,585,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+22,Bake N Shake,Main Course,Grilled Chicken,585,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+23,Bake N Shake,Starters,Chicken Lollypop,481,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+24,Bake N Shake,Starters,Dragon Chicken,429,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+25,Bake N Shake,Starters,Chicken Dynamite,468,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+26,Bake N Shake,Chinese,Vegetable Noodles,273,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+27,Bake N Shake,Chinese,Chicken Noodles,351,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+28,Bake N Shake,Chinese,Chicken Fried Rice,351,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+29,Bake N Shake,Combos,Paneer Chilly With Noodles,442,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+30,Bake N Shake,Combos,Paneer Chilly With Fried Rice,442,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+31,Bake N Shake,Beverages,Cold Coffee,299,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+32,Bake N Shake,Beverages,Kitkat Cafe,390,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+33,Bake N Shake,Beverages,Cold Coffee With Ice Cream,351,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+34,Bake N Shake,Beverages,Vietnamese Coffee,377,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+35,Bake N Shake,Beverages,Cranberry Cold Brew,344,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+36,Apna Sweets,Sweets,Kesariya Jalebi (100g),60,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+37,Apna Sweets,Sweets,Mawa Patisa,90,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+38,Apna Sweets,Sweets,Kala Jamun,50,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+39,Apna Sweets,Sweets,Rasmalai,70,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+40,Apna Sweets,Sweets,Besan Chikki,60,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+41,Apna Sweets,Sweets,Sohan Papadi,60,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+42,Apna Sweets,Thali,Punjabi Thali,150,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+43,Apna Sweets,Extras,Extra Poori,20,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+44,Nafees Restaurant,Non-Veg Main Course,Murgh Mumtaz,315,2adc77b1-c064-466e-be0f-882bcb9ac579
+45,Nafees Restaurant,Biryani,Dum Aloo Biryani,234,2adc77b1-c064-466e-be0f-882bcb9ac579
+46,Nafees Restaurant,Shawarma,Lebanese Chicken Shawarma,165,2adc77b1-c064-466e-be0f-882bcb9ac579
+47,Nafees Restaurant,Soups,Shorbedar Paye [Mutton],350,2adc77b1-c064-466e-be0f-882bcb9ac579
+48,Nafees Restaurant,Starters,Chicken Lollypop,270,2adc77b1-c064-466e-be0f-882bcb9ac579
+49,Nafees Restaurant,Shawarma,Indian Chicken Shawarma,165,2adc77b1-c064-466e-be0f-882bcb9ac579
+50,Nafees Restaurant,Starters,Murgh Tandoori,180,2adc77b1-c064-466e-be0f-882bcb9ac579
+51,Nafees Restaurant,Biryani,Chicken Biryani E Nafees,315,2adc77b1-c064-466e-be0f-882bcb9ac579
+52,Nafees Restaurant,Combos,Veg Biryani Combo,218,2adc77b1-c064-466e-be0f-882bcb9ac579
+53,Nafees Restaurant,Combos,Chicken Biryani Combo,270,2adc77b1-c064-466e-be0f-882bcb9ac579
+54,Nafees Restaurant,Biryani,Paneer Fry Biryani,250,2adc77b1-c064-466e-be0f-882bcb9ac579
+55,Nafees Restaurant,Biryani,Mutton Biryani-E-Nafees,340,2adc77b1-c064-466e-be0f-882bcb9ac579
+56,Nafees Restaurant,Starters,Nargisi Tangdi,280,2adc77b1-c064-466e-be0f-882bcb9ac579

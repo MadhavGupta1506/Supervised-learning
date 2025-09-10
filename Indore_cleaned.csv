@@ -1,0 +1,927 @@
+id,restaurant_address,restaurant_name,restaurant_cuisine,restaurant_rating,res_id
+0,Sudama Nagar,Namo Sandwich,Fast Food,4.3,1e8a8069-35b7-426c-9ba0-da0e666d1e68
+1,"BCM Heights, Vijay Nagar",Bake N Shake,"Cafe, Fast Food, Bakery",4.2,0d8f7da9-836d-49c7-8dcb-a2cbebc1c28c
+2,Sarwate Bus Stand,Shree Gurukripa,North Indian,4.3,e97422b9-c3cf-4e8c-87ac-ba3bd7bca6a7
+3,Old Palasia,Nafees Restaurant,"North Indian, Mughlai",4.3,2adc77b1-c064-466e-be0f-882bcb9ac579
+4,Sarwate Bus Stand,Hotel Guru Kripa,North Indian,4.3,8214f604-f4b6-420e-9e77-acc53c856a07
+5,Vijay Nagar,Shree Gurukripa,North Indian,4.1,bd1c87bc-9353-4fff-841d-d2fae6ea1654
+6,Sarwate Bus Stand,Hotel Guru Kripa Avenue,North Indian,4.1,c1648302-677b-4f3c-9c47-bd74e289e923
+7,Sudama Nagar,Maa Ki Rasoi,"North Indian, South Indian",4.1,876210ae-cff3-402b-ac0b-c03f9ffc9bcf
+8,Vijay Nagar,Apna Sweets,"Mithai, North Indian, South Indian, Beverages",4.3,8d7a6fff-4ae1-498b-9067-8e3a92458ea4
+9,South Tukoganj,Dutt Guru Kripa,"North Indian, Fast Food",4.1,7fa131b7-f790-46ab-8ded-a5b8c7cba3bf
+10,HIG-LIG,Oye24,"North Indian, Chinese",4.1,dd94244e-2f5b-4b88-930e-f760634bec8c
+11,Old Palasia,Mitti - Organic. Fresh. Desi.,"Cafe, North Indian",4.3,6b9b771e-38d1-4119-af2b-ef0720d758a7
+12," Hotel Somdeep Palace, Vijay Nagar",SD 21 - Hotel Somdeep Palace,"North Indian, Chinese",4.6,0a347a42-994b-407f-b540-2cfff7d59b35
+13,New Palasia,Sagar Gaire,"South Indian, North Indian, Fast Food",4.1,f01b87b8-d7c0-4d59-a724-bc2df167d48a
+14,"Sapna Sangeeta Mall, Sapna Sangeeta",Domino's Pizza,"Pizza, Fast Food",3.9,324126df-8a4a-4574-949b-6217cee52c93
+15,"Sayaji Hotel, Vijay Nagar",Cravings - Sayaji Hotel,"North Indian, Chinese, Italian",4.7,9db2756c-6c40-48f4-98b9-d0bec20ca5ed
+16,Sarafa Bazaar,Hotel Rajhans,North Indian,4,b3346ad4-6ccf-4419-9e34-4909743577df
+17,Khajrana,Hotel Zakir,North Indian,4.1,fc436f31-f532-46df-a1c5-98b37204d7b4
+18,"Hotel Effotel, Vijay Nagar",The Cube - Hotel Effotel,"North Indian, Chinese, Italian",4.8,be24aecf-8850-4ebc-8f09-774c4d54fd01
+19,Sapna Sangeeta,Apna Sweets,"Mithai, North Indian, South Indian, Beverages",4,ade4d6e8-7d68-4553-bfc5-fbb24611f0f6
+20,Old Palasia,Domino's Pizza,"Pizza, Fast Food",3.9,533cba15-09a6-41ca-956c-06ac38ea1421
+21,HIG-LIG,99 Rotiwala,North Indian,4.2,0e56658a-98c5-4f36-8993-27bfe9646346
+22,"56 Dukan, New Palasia",Madhuram Sweets,"Chinese, Mithai",4,02b1f79b-2958-4bed-974e-30ef06923441
+23,"Sayaji Hotel, Vijay Nagar",Kebabsville - Sayaji Hotel,"North Indian, Bar Food",4.9,f3b222e8-d78a-44f8-8f49-9c179f8802c0
+24,"Hotel Shreemaya, RNT Marg",Shreemaya Celebration,"Bakery, North Indian, South Indian, Fast Food",4.6,c9c9f33b-611e-4c63-aea9-89f2a7894b96
+25,Sarwate Bus Stand,Hotel Madni Darbar,North Indian,3.9,4b7c55ad-d690-452a-8f1f-07c4ee0a6403
+26,Old Palasia,Apna Sweets,"Mithai, North Indian, South Indian, Beverages",4.2,ee2fbd27-3bae-4be0-99bf-ff3d453b5cc8
+27,Vijay Nagar,Domino's Pizza,"Pizza, Fast Food",3.8,d1c58784-969c-4108-8260-9c0849f85331
+28,New Palasia,The Monroe,"Italian, Chinese, North Indian",4.4,b31ce7a7-9b40-450b-b63e-28238e32fafb
+29,Sapna Sangeeta,Singh Sahab,"North Indian, Chinese",3.9,c68d2b64-dc79-4509-bd96-a5e0d38ddbef
+30,Vijay Nagar,Taberna - The Cafe Bar,"Italian, North Indian, Chinese",4.4,9c131b60-e675-4efc-8599-88335ae9ffb4
+31,New Palasia,Mangosteen Cafe,Cafe,4,faa6b3d8-0367-4120-91e1-a53f3777028f
+32,"Malhar Mega Mall, Vijay Nagar",KFC,"Burger, Fast Food",4,564a834a-1da1-42c6-b1c6-b53b7451312b
+33,Vijay Nagar,Tic Tac Toe,"North Indian, Chinese, Fast Food",4.4,d3ba9e2a-aef6-4dbd-b9b6-ae1c48dc5a48
+34,"Indore Marriott Hotel, Vijay Nagar",Indore Kitchen - Indore Marriott Hotel,"North Indian, Italian, Asian, Fast Food",4.4,d2d47323-c0d2-4b3f-8a9d-6e77cfcee3fe
+35,Old Palasia,Dilli Darbar Family Restaurant,"Chinese, North Indian",3.9,de297c77-edc0-4b1d-827a-0411fc81893f
+36,YN Road,Mocha,"Cafe, Continental, Italian, Street Food",4.2,2658fa0e-561c-48db-8318-d4db70c68bd0
+37,Geeta Bhavan,Rasgulla House,Mithai,4.3,5986824d-842e-42ad-a6a0-8dd1ecce0eb1
+38,Bhawar Kuan,Gyaniji Ka Khalsa Dhaba,"North Indian, Chinese",3.9,79cd1eb9-2ca5-40fa-87fc-9ad2c4ee84b5
+39,Sapna Sangeeta,Pishori Restaurant,"North Indian, Chinese, Mughlai",4,2f07e1f6-9440-4fcc-8a57-8f27e9d3de06
+40,"Malhar Mega Mall, Vijay Nagar",Banana Leaf,"South Indian, North Indian",4.3,761e2a32-d3d4-494c-be9f-60ddc6ea36f6
+41,Annapurna Road,Apna Sweets,"Mithai, North Indian, South Indian, Beverages",3.8,714c65f5-6935-4b5c-9a3c-bf30a8a5fb70
+42,Vijay Nagar,"Raja Ram - Dhaba, Sweets & Namkeen","North Indian, Mithai, Street Food",4.1,be89d79f-60be-477e-9045-bcf9804fefad
+43,Vijay Nagar,Patissez,"Continental, Desserts",4.3,0c3a6fa2-9421-42ab-a765-2f3518c633a6
+44,Old Palasia,Shiva Chinese Wok,"Chinese, Fast Food",4.1,0a6a5fec-57b2-4d7a-bc16-44afd0f8e7ca
+45,New Palasia,Old Kolkata Roll Club,"Chinese, Rolls",4.1,e3d42297-dbd5-4391-b368-fc46f50589ae
+46,Vijay Nagar,Tinku Everfresh,"Sandwich, Fast Food, Beverages",4.2,6200a3bd-7738-480c-b89c-d2c7ea46e3ed
+47,New Palasia,Mama Loca,"Continental, Italian",4.3,cdfe8051-50c0-421f-8f58-a37aaa3da584
+48,"Infiniti Hotel, Vijay Nagar",Hobnob Gourmet Cafébar,"Continental, Italian, North Indian",4.6,43b30375-c37d-4b86-babf-37054a5e078d
+49,RNT Marg,KFC,"Burger, Fast Food",3.8,ca6ff948-5f9b-460a-b6e9-5bffc70746b3
+50,New Palasia,O2 Cafe De La Ville,"Cafe, Fast Food",4.1,d5201af3-5159-48bc-ac0b-e3b3cb629b51
+51,Rau,Guru Kripa,North Indian,3.9,f6aecf9e-b26a-46de-bba3-d63ce45699b2
+52,Bhawar Kuan,Just Paratha,"North Indian, Fast Food",4,7c26b42d-3746-4ed7-b05f-d4bb68be5e78
+53,Vijay Nagar,Just My Bakes,"Cafe, North Indian, Bakery",4,87743d5f-4846-4c0b-b473-fe3ecdbc12f7
+54,Old Palasia,Mr. Beans,"Cafe, French, Italian",4.3,106bfa1f-8fb2-44fa-8d9f-9e96705ee7aa
+55,Vijay Nagar,Cafe Chapter One,"Cafe, Italian, Fast Food",4.5,27d2774c-8f43-41d6-a90c-4e3234fecc4b
+56,Rajendra Nagar,Shreemaya Celebration,"Bakery, North Indian, South Indian, Fast Food",4.3,22d5d63c-3b2a-4e6f-9e68-580422c38a07
+57,Bhawar Kuan,Tinku's,"Sandwich, Fast Food, Beverages",4,a3f568c9-6b00-4f17-8b83-36f507bb6bc7
+58,Manik Bagh Road,Oye24,"North Indian, Chinese",3.7,b1dfd21b-2f1a-4e8c-9b44-98f97ea7e219
+59,Vijay Nagar,Cafe Terazza,"Cafe, Italian, Chinese",3.9,ca2a4241-d97c-41c7-b4c1-5f5f05a99a46
+60,"Infiniti Hotel, Vijay Nagar",Bollywood Theka,"North Indian, Fast Food, Finger Food",4.4,ae62f7fe-693d-4a4c-b023-9f4f538b7022
+61," Hotel Somdeep Palace, Vijay Nagar",Mustang - Hotel Somdeep Palace,"North Indian, Chinese",4.7,c0ee415d-8a72-46e3-9179-d3218a14b4f4
+62,Sapna Sangeeta,Pizza Hut,"Pizza, Fast Food, Italian",3.6,e91e78d0-cdc3-44ac-8cf4-aecdaabae805
+63,"56 Dukan, New Palasia",Johny Hot Dog,"Fast Food, Street Food",4.5,d95b3d47-e03f-4a9b-82cd-bddb33928f6a
+64,Sudama Nagar,Just My Bakes,"Cafe, North Indian, Bakery",3.8,fa650612-8c96-49a3-89e8-2b1da961d9e4
+65,Sapna Sangeeta,Hotel Shree Leela,North Indian,3.8,3819bd70-fde9-44ac-bcc9-8d8a95ecae51
+66,Old Palasia,Chill Baby,"Fast Food, Chinese, Pizza",3.9,6d9e2fea-091e-4fc2-a5bd-de92c368db24
+67,Vijay Nagar,Cafe Yolo,"Cafe, Fast Food",4.1,8d0536d0-63f7-4a5d-b55d-14559675f812
+68,Manik Bagh Road,JMB,"Chinese, Fast Food, Desserts",4.1,fbb3bd2a-ef79-48ac-b095-333271989ed2
+69,Khajrana,Chick N Serve,"Lebanese, North Indian, Chinese",4.1,bdc7fc68-2ffd-4c51-ba74-e603b57462da
+70,"Malhar Mega Mall, Vijay Nagar",Pizza Hut,"Pizza, Fast Food, Italian",3.3,d49edd4a-f81e-46e1-8e6d-9a0571844bb2
+71,HIG-LIG,Food 4 Foodie,"North Indian, Fast Food",3.7,8d446c1c-956e-4339-8a7b-7a2942bb66db
+72,"56 Dukan, New Palasia",Vijay Chaat House,Street Food,4.8,15f58e94-5d95-41dd-8122-93b6ef3e8f91
+73,Old Palasia,Ravi Alpahar,Street Food,4.3,e5028b0c-480e-4b1e-83ef-a0c5c66d888b
+74,RNT Marg,Naturals Ice Cream,"Desserts, Ice Cream",4.7,bd375fe1-d3f0-4be0-85a2-0253c564da99
+75,Sarwate Bus Stand,Shree Leela Dal Bafle,North Indian,3.9,e70bf77f-a89c-4540-a377-60f2566a091d
+76,Vijay Nagar,The GroundBaking Co.,"Pizza, Continental, Beverages",4.4,96f0d1e2-7750-43d1-8d81-965f75312e5c
+77,Old Palasia,Behrouz Biryani,"Biryani, North Indian, Mughlai",4.4,4f22c2e4-68fe-4fb9-8976-1b74f46dd745
+78,Sudama Nagar,Sheetal Restaurant,"North Indian, South Indian",3.9,7f023255-c28f-4de9-8c1f-b922aff46ced
+79,Sudama Nagar,Parag Bakery & Fast Food,"Bakery, Fast Food",4.1,d5e34c9b-cf88-44e0-a082-5d4f44b4b280
+80,New Palasia,Oiya,Cafe,4.4,b614bd47-259d-4f04-9a25-c3200ec53012
+81,Vijay Nagar,10 Downing Street,"North Indian, Chinese",4.1,998cf4af-f316-4e33-b9fb-ca758c219f4d
+82,"Hotel Shreemaya, RNT Marg",Hotel Shreemaya,"North Indian, Mughlai, Chinese",4.4,94ee82eb-a842-4b59-9dde-1ada58a9f980
+83,Sapna Sangeeta,Mukki Ke Zayke,Fast Food,4.4,484321c9-f590-44f4-8680-c5b09cfea299
+84,YN Road,Tinku's,"Sandwich, Fast Food, Beverages",4.2,60045351-8ede-456c-9960-451a6ebd7d6d
+85,MR 10 Road,Little Monk,"North Indian, Italian, Chinese",4.2,41a5ea49-6164-406e-bce7-8167802c47a0
+86,Vijay Nagar,Chang's Legacy,"Chinese, North Indian",4.6,0212e294-47e9-46d8-b9b3-e65b64afa341
+87,"56 Dukan, New Palasia",Johny Hot Dog,Fast Food,4.3,3ed6b046-c829-4587-b7bd-f2a788b32f02
+88,Rajendra Nagar,Domino's Pizza,"Pizza, Fast Food",3.8,7dd894de-5041-47bc-883a-15127621669f
+89,Bhawar Kuan,JAL - A Jungle Restaurant,"North Indian, Chinese",4.2,b4f6b27a-2676-42f0-a8f4-41b9462370d0
+90,Old Palasia,Foobae,"Burger, Beverages, Fast Food, Desserts",4.1,9b7f7f4f-4754-40d3-9fd1-fa52dfac4e1b
+91,Vijay Nagar,Singh Restaurant,"North Indian, Chinese",3.8,6dd67f56-e9f5-4097-92e1-deaa3eeded16
+92,New Palasia,Dilli Da Roll,Rolls,4.4,ca22e527-1b39-4bc8-9784-3787fd72bb48
+93,"56 Dukan, New Palasia",Sam's Momos,"Momos, Chinese, Rolls, North Indian, Fast Food",3.9,9ac36873-6614-4313-a01c-89212fdeae75
+94,Vijay Nagar,Pind Balluchi,North Indian,3.9,c63c77f3-dd2f-4824-ab8e-a333815fd55f
+95,Vijay Nagar,Tea Shack,"Fast Food, Italian",4.2,81dae661-d1c9-4270-ab35-848b3dcedc70
+96,New Palasia,Via Indore,North Indian,3.6,172e3b76-8596-4e7b-8fda-3d8d714d6f01
+97,HIG-LIG,Delicious Hut,North Indian,4.1,f6d2cab4-3b7a-45fb-a507-2220b3171354
+98,Annapurna Road,Madhur Zayka Sweets n Cafe,"North Indian, South Indian, Fast Food, Mithai",3.8,8643a200-9ea7-4263-80f6-a823bef55c68
+99,"Mangal City Mall, Vijay Nagar",Behrouz Biryani,"Biryani, North Indian, Mughlai",4.4,d4912e0d-e6a8-4de0-9d4f-897f6920b789
+100,"Radisson Blu Hotel, Vijay Nagar",Ethyl Bar - Radisson Blu Hotel,Finger Food,4.2,38dff36f-d167-4103-9126-386c4862e79f
+101,"Sayaji Hotel, Vijay Nagar",Mediterra - Sayaji Hotel,"Mediterranean, Italian",4.5,78a0e298-3685-4ffa-83a0-32a2ebdd7c73
+102,"Hotel Wow, Vijay Nagar",Twilight - Hotel WOW,Bar Food,4.3,5bbe3425-32c2-41af-8c8e-3cebb73a31b1
+103,"Radisson Blu Hotel, Vijay Nagar",The Creative Kitchen - Radisson Blu Hotel,"North Indian, Continental, Mexican, Italian",4.1,b0c8fcd7-756f-4f5c-a0cb-b9f62e7f5fef
+104,"Indore Marriott Hotel, Vijay Nagar",One Asia - Indore Marriott Hotel,"Chinese, Asian",4.5,b647a2de-eca2-4747-a037-425e043e1552
+105,Vijay Nagar,F Bar & Kitchen,"Continental, North Indian",3.6,ff150dee-b420-4b0a-96c4-7ffdbf557fb6
+107,By Pass Road (North),Jonathan's Kitchen,"North Indian, Italian",4.1,a308f0cc-76f6-4628-a515-59b3c43faa9e
+108,Vijay Nagar,5/78 Skybar,"Japanese, Asian, Mexican, Italian",4.2,3b644b9a-04f5-4d33-902e-1d725ebe1b55
+109,"Radisson Blu Hotel, Vijay Nagar",Ni Hao - Radisson Blu Hotel,"Asian, Chinese, Momos",4.6,f5079ef3-8e33-41bf-a10b-5d1bcb1f0163
+110,"Radisson Blu Hotel, Vijay Nagar",Indiya Oye - Radisson Blu Hotel,"North Indian, Kashmiri",4.3,bd21de50-7844-42df-a095-28a7546e2c28
+113,Bhawar Kuan,KYRO,"North Indian, Chinese, Continental, Mediterranean, Asian",3.7,a6163494-fc73-4b7a-8a15-41260e4fe915
+114,"Hotel Wow, Vijay Nagar",Constellation - Hotel WOW,"North Indian, Asian, Italian",4.2,7a5dc308-05ea-47e2-8963-68a07debfda5
+115,"C21 Mall, Vijay Nagar",Sky Blue Sports Bar,"Finger Food, North Indian, Chinese, Mughlai",3.3,2eeb663f-4821-42ab-b83f-40d71c8e4f44
+116,"Sayaji Hotel, Vijay Nagar",Sanchi - Sayaji Hotel,"North Indian, Chinese",4.3,5c507e7d-17a4-4c7a-84ec-31628cdd19f2
+117,Vijay Nagar,Not So Desi,North Indian,3.7,50b4c2d1-a11b-48c3-b8fa-372c832a3617
+118,The Grand Bhagwati,Mr & Mrs Somani - The Grand Bhagwati,North Indian,4.4,4ecd9663-5fd9-4953-8f11-eae0c825a57e
+122,Vijay Nagar,Shosha Cafebar,"North Indian, Mexican, Italian",4,af84cae0-5740-44de-beb2-e53016ed1608
+123,Old Palasia,Vidorra,"North Indian, Chinese",4.1,f6e306e9-f3fc-470f-a5a5-84481bff2682
+124,"Sayaji Hotel, Vijay Nagar",Chopstick City - Sayaji Hotel,Chinese,4.5,ebac5df2-bc44-406b-b8ce-cdc5a8121ccd
+125,Vijay Nagar,Farzi Café,"North Indian, Continental",4.2,94b6a830-0ec8-427d-bdc3-7ccbd517efe5
+126,"The Red Maple Mashal, Rau","#1, Culinary Avenue - The Red Maple","North Indian, Chinese, Continental",3.9,09992ea5-227d-4095-9643-1bd6827ecba6
+127,The Grand Bhagwati,Cafe Piano - The Grand Bhagwati,"North Indian, Italian",4.1,5c135cf7-0bbe-4f3f-8415-cab8eceec494
+128,Fairfield By Marriott,Kava - Fairfield by Marriott,"North Indian, Asian, Italian",3.8,cf2ddca3-2ee2-4139-a0f7-27dbb0dc4ea7
+129,"Indore Marriott Hotel, Vijay Nagar",54 Praangan - Indore Marriott Hotel,"Awadhi, North Indian",4.4,729a52dd-2583-42ec-995c-a2c5c530fe1c
+130,"Indore Marriott Hotel, Vijay Nagar",Indore Baking Company - Indore Marriott Hotel,Bakery,4.4,6af68119-b4a2-48ae-8ee8-10aaea6535b3
+131,"C21 Mall, Vijay Nagar",Calypso,"North Indian, Chinese, Continental",3.9,b319e5e2-3e7d-4758-8aa0-0e9dcfd3aa71
+132,Vijay Nagar,The Beer Cafe,"Finger Food, Bar Food, Pizza",4,15e768ce-f438-4ca5-960e-88ff8874f81c
+133,"Hotel Effotel, Vijay Nagar",Good Old Days - Hotel Effotel,"North Indian, Asian, Street Food",4.2,a851bb10-c7e2-4e4d-8b74-14999dc545af
+134,Vijay Nagar,Agent Jack's Bar,"Italian, North Indian",4,c6bb4d75-6a10-4c63-bf17-68961ed37fdf
+135,Vijay Nagar,Tipsy Tales Bar Terminal,"Chinese, Italian, Continental",3.5,84703f87-f4b7-4897-a469-f9d8467d3461
+136,"Mangal City Mall, Vijay Nagar",Level 3,"North Indian, Finger Food, Mughlai",3.4,a14118a5-2c82-479b-8c09-3a161887f21c
+137,South Tukoganj,Mirchi and Mime,"North Indian, Mughlai",4,76e07ff0-7553-435e-993d-a96a827cba9e
+138,Vijay Nagar,Trance The Pub,"North Indian, Finger Food",3.9,7dd49ed8-0c57-4a49-9b17-045ada66ceb9
+139,Vijay Nagar,The Eighteen Fine Dine Lounge,"North Indian, Continental, Modern Indian",4.1,cbf2d329-3d88-4c8a-af66-b20c8a37b9d6
+140,New Palasia,"Dakku,s","North Indian, Mughlai, Chinese, Fast Food",3.5,0e7e388e-818e-4261-bd58-45b549b13ec8
+141,New Palasia,Glazz,"North Indian, Italian",3.2,67aca7bf-d9b5-4421-b040-109de7639f0b
+142,Crescent Spa & Resorts,Courtyard - Crescent Spa & Resorts,"North Indian, Chinese",4,f75f0187-2c28-4a97-8376-8739c6960bdd
+143,"Sayaji Hotel, Vijay Nagar",Quorum - Sayaji Hotel,"Finger Food, North Indian, Continental",3.7,8babe064-056e-45c8-b31d-ec92d3d82e0b
+144,"Hotel Best Western Plus O2, South Tukoganj",High Ball - Hotel Best Western Plus,"Finger Food, North Indian",3.8,f10074e7-22d2-4c2e-b490-d3e73667401c
+145,Old Palasia,Ego,"North Indian, Chinese",3.8,d54ad850-9007-46d9-867b-70f1c9a3f89f
+146,"Indore Marriott Hotel, Vijay Nagar",Diamante - Indore Marriott Hotel,"Continental, North Indian, Finger Food",3.7,f0154b87-fbde-492b-ba22-501b747f1fdc
+147,"Sayaji Hotel, Vijay Nagar",99 Degrees & Rising - Sayaji Hotel,"North Indian, Chinese, Pizza, Continental",3.8,1c372fca-dd4b-419a-95b4-94aa269b035d
+148,Bhawar Kuan,Addiction Rooftop Bar By Solaris,North Indian,3.6,4071d096-9efb-4d9a-9596-ef391c6625c6
+149,"Lemon Tree Hotel, RNT Marg",Slounge - Lemon Tree Hotel,Finger Food,3.6,0bc81efd-08fd-4e87-9d8b-5683264e52ee
+150,"Sapna Sangeeta Mall, Sapna Sangeeta",Osmium Lounge,"North Indian, Chinese, Bar Food, Asian",3.4,25fc506c-9fcc-48cb-9680-d13c64054ed5
+151,Bhawar Kuan,Brix & Barrels,"North Indian, Mughlai, Continental",3.1,128c15cf-57e2-45ea-8634-e9454b8875f7
+153,"Infiniti Hotel, Vijay Nagar",Stars N Sky,"North Indian, Chinese, Mughlai",4.6,b1bbd843-7c6d-4716-8f4f-057d4a9cd6a5
+154,"Infiniti Hotel, Vijay Nagar",Opium Bar By The Roof,"Finger Food, North Indian",4.4,f96eb46f-5ca3-41ad-b644-b72c5d7764a8
+155,Vijay Nagar,Little Italy,"Italian, Mexican",4.5,402c4316-e88b-4a30-a73c-ac3221f1da81
+156,"Hotel Best Western Plus O2, South Tukoganj",Golden Oven,"North Indian, Chinese, Continental",3.7,34206364-266f-4aa0-a4a0-70dbae23bb1e
+157,Rau,Spiritual Pub & Restaurant,"North Indian, Chinese, Italian, Continental",3.4,d87cc7e1-8cd7-4c56-bc3e-451874e45118
+158,"Country Inn & Suites By Radisson, Vijay Nagar",Big Shot Bar - Country Inn & Suites by Radisson,Bar Food,3.2,77ce2050-181f-4619-be07-e5391fcbc3f0
+159,Kothari Market,Beeji Restaurant,"North Indian, Chinese",3.6,146fce36-9101-4eb3-a20b-820f7d6948ec
+160,YN Road,Classic Bar & Restaurant,"North Indian, Chinese",3.3,df8ac14b-8e08-4905-b42b-89c049aba8c7
+161,"Hotel Crown Palace, South Tukoganj",Lancer Cocktail Lounge,"North Indian, Mughlai, Continental, Chinese",3.3,7a26ab03-56ff-4927-9b0d-0c00399e31b4
+162,By Pass Road (North),Signature Boutique Hotel,"North Indian, Chinese",3,9935d5e1-73c7-4bc4-a550-493645ff7f57
+164,Papaya Tree Hotel,Hill's View - Papaya Tree Hotel,"North Indian, Chinese, Italian",4.4,11315811-a605-4e75-ba73-af57e1eaa128
+165,By Pass Road (North),Echidna Restobrew,"Mediterranean, Asian, North Indian",3.5,2314996d-07f8-452e-a168-252fac20e835
+166,By Pass Road (South),Quenchyard,"North Indian, Chinese",4.1,13da172e-cff5-4a69-bb36-61d4024c730f
+167,Vijay Nagar,The Cliff Restaurant & Bar,"North Indian, Chinese",2.5,3330ede4-b659-40ef-875f-f8077baa8b0d
+168,Papaya Tree Hotel,Zest - Papaya Tree Hotel,"North Indian, Chinese, Italian",3.8,25662b8a-913f-4b46-87e3-e71dd2df6a10
+169,"Hotel Amar Vilas, Press Complex",Salt and Pepper,"North Indian, Chinese, Continental",3.4,18cc9e59-c693-4f29-b34a-371ec0d066f4
+170,"Hotel Amar Vilas, Press Complex",Couple Lounge,"North Indian, Chinese, Continental",3.7,ad783139-966d-49ee-afca-48f396764ebe
+171,By Pass Road (North),Jonathan's Grill & Barbeque,"North Indian, BBQ",3.8,cc2cff2a-f256-4edd-84fa-ac153480e910
+172,Old Palasia,White House,"North Indian, Chinese",3.4,54181f27-5bfa-418e-964d-27dcc0e6c94a
+173,Sudama Nagar,Boozer's Bar,"North Indian, Chinese",3.3,0f2bae46-4074-4723-97cc-f999a23c5ae4
+174,Mari Mata Square,Sapna Bar And Restaurant,North Indian,3,1a17d842-6840-4c95-9fdc-0d280282ec35
+177,Vijay Nagar,Fagun Restaurant,"North Indian, Continental, Chinese",4.3,1d8204a5-f112-467d-b5f1-71ebfd65e82a
+178,"Hotel Effotel, Vijay Nagar",Capers - Hotel Effotel,"North Indian, Italian, Chinese, Continental",4.5,2fe03299-269d-4658-a547-4b0c323b7059
+179,"Hotel Shreemaya Residency, Press Complex",Hotel Shreemaya Residency,"North Indian, Chinese, Continental",4.2,0f6e5424-433b-4e17-ad32-55d93675dbdc
+180,Vijay Nagar,The Piano Project,"North Indian, Mughlai",4.3,c68b4b01-d225-4883-a638-41ffc936918f
+181,Sapna Sangeeta,City Gymkhana Club,North Indian,3.9,cc176e76-03d8-4f95-93de-e96184045460
+182,"Lemon Tree Hotel, RNT Marg",Citrus Cafe,"North Indian, Italian, Chinese, Cafe",3.6,52782537-564f-403e-b1bf-6f905fd2aeab
+183,Vijay Nagar,Livup Cafebar & Lounge,"North Indian, South Indian, Chinese, Cafe, Beverages",3.7,621b7c77-aaf9-47d1-a6a1-2b9bfa1b86f1
+184,"Country Inn & Suites By Radisson, Vijay Nagar",Mosaic - Country Inn & Suites by Radisson,"North Indian, Continental, American",4,2b8754e7-bc58-4ce3-9187-a8e7f3efb000
+185,South Tukoganj,Hotel Kanchan,"North Indian, Chinese",3.8,5cfdf7c3-6be5-4ce8-891a-91a52a2b2e6a
+186,"Golden Gate, Vijay Nagar",The Arch - Golden Gate,"North Indian, Chinese",3.4,cedf0840-24ed-4567-892c-8f6bb30af3b1
+187,Annapurna Road,60 ML,North Indian,3.7,7171b857-828c-4ec7-bf26-99b184831c3b
+188,Crescent Spa & Resorts,Exotica The Lounge Bar - Crescent Spa & Resorts,"Finger Food, Continental",3.5,9e5c7836-854c-4616-a486-0cb60fac8d0e
+189,"Malhar Mega Mall, Vijay Nagar",District 11,"North Indian, Italian, Mexican",3.4,9db05208-8cfa-48b2-a20f-5bee9c8c605b
+190,Crescent Spa & Resorts,Shack Pool Bar & Grill - Crescent Spa & Resorts,"North Indian, Italian, Finger Food",3.7,be4629f2-9752-48ab-8db3-5256cfd1e3ea
+191,"Hotel Amar Vilas, Press Complex",The Lounge Bar - Hotel Amar Vilas,"North Indian, Chinese",3.6,881e0f70-5274-4fec-b96d-ef66496f1ff8
+192,By Pass Road (North),The Tipsy Buffalo,"Finger Food, North Indian",3.5,5991b1f3-403e-45e6-a0bc-6861388cd7f5
+193,Bhawar Kuan,Sundown - Solaris Club,"North Indian, Chinese",3.3,e4ee523b-0cfa-41da-b2eb-cc732b9fc270
+194,South Tukoganj,O2 Club & Lounge,"Chinese, North Indian, Continental",3.7,3e6df2a6-7d9c-4e7f-8ac8-d12d10980c34
+195,"Golden Gate, Vijay Nagar",Blue Dip - Golden Gate,"North Indian, Chinese",2.9,4c13fe5b-d602-494e-9ebf-e5cbcd3e9380
+196,South Tukoganj,Smaaash,Finger Food,3.4,845127a5-397a-4282-8be9-8c0e19874aba
+197,RNT Marg,Chasers Pub & Restaurant,North Indian,2.8,ce09fd21-62b9-4195-b607-767df250f61c
+198,"Regenta Central, By Pass North",Masala Craft - Regenta Central Hotel,North Indian,3.1,5a12db9e-4e42-4131-92be-999c1c6f05f8
+199,Jail Road,Lal Balti Ki Kachori,Street Food,4,a11d5bba-5e21-40c4-921b-64c5909e2790
+200,Rajendra Nagar,Lal Balti Ki Kachori,Street Food,3.8,18aa7b35-7f47-4b2a-8560-72e1c937338b
+204,Sarafa Bazaar,Vijay Chaat House,Street Food,4.4,a2041192-4548-4e53-abf9-238f57129b7b
+205,Sarafa Bazaar,Joshi Dahi Bada House,Street Food,4.9,b9114c69-9a02-465a-aec2-2165c13719fa
+206,Sarafa Bazaar,Swadisht Samosa Corner,Street Food,3.9,a25da3bc-e90c-454c-a07a-281d36b58b88
+207,Jail Road,Jagdeesh Sweets,"Street Food, Mithai",3.7,b28ab920-d45c-499c-a6a1-d263d56121f8
+208,Kothari Market,Ravi Alpahar,Street Food,3.9,66afc97f-a05e-4395-8a92-78f43b23deb4
+209,Rau,JSK Sweets & Restaurant,"Mithai, Street Food",3.7,84553dad-fa89-4836-aa73-487a358b5197
+210,Bhawar Kuan,Punjabi Dhaba,North Indian,3.2,c3e3d3b8-4232-4ed1-9b79-39aca9d4facb
+211,Gangwal Bus Stand,Chanchal Namkeen,"Bakery, Mithai, Street Food",3.8,93c5bdd8-e3d9-4765-bf34-e06ed3be2ef1
+212,Chhavani,Bombay Bakery,"Bakery, Street Food",3.5,8fe8dcf4-8be7-46a5-8fe1-3e6fc0d609db
+213,Sarafa Bazaar,Sawariya Seth Khichdi,North Indian,3.6,23bc4b18-438b-48d5-86ee-b24f80f772eb
+214,Bhawar Kuan,Ramesh South Indian,South Indian,3.8,7bbd9490-67ca-492a-9fbe-23f655c95b9e
+215,MR 10 Road,Shubham Chinese Point,Chinese,3,183ce68c-d1d5-4950-a465-2e54afe1fbc7
+216,Annapurna Road,Goli Vada Pav No. 1,"Street Food, Maharashtrian",3.3,2778ac9e-c150-467b-b6c2-b3de82875ffb
+217,Malharganj,Mittal Kachori,Fast Food,3.6,5a31c3ce-2b47-481c-a3e9-48201fe3118f
+218,Sapna Sangeeta,Vadilal Ice Cream,"Desserts, Ice Cream",3.4,de16b598-3995-491b-9ac3-617602926d7d
+219,"Malhar Mega Mall, Vijay Nagar",Bombay Bhel,Street Food,2.8,25c30d33-a074-4f8a-a886-0790b3398c22
+220,Bhawar Kuan,Guptaji Paratha House,North Indian,3.6,39b3d6fd-6fc1-4013-b3de-a96491cea388
+221,Sarafa Bazaar,Honey Pizza,"Pizza, Fast Food",2.8,9c696db1-bb9e-4a3a-a4a6-c9b9a76ff3c3
+222,Malharganj,Mr. Bhel Bhandari,Street Food,3.5,9e7f15d8-6cbd-4749-b35e-ebb9466ba06f
+223,Jail Road,Shreenath Fariyali Khichdi,North Indian,3,e1a965dc-3ad2-4897-9e88-c7fafcf8eb71
+224,Ranjeet Hanuman,Tea De Pot,"Tea, Coffee",3.6,349598f9-df15-4ef4-bf9d-f3e83423dc0b
+225,Kothari Market,Agrawal Kachori Corner,"Street Food, Fast Food",3.8,8198285e-89bf-423a-935c-6cbd116a7982
+226,Old Palasia,Tanishq Cafe,Coffee,3.3,e7c8ab01-3baf-45e5-b236-1ce27f1258e9
+227,HIG-LIG,Shree Mahalaxmi Moong Ke Bhajiye,Fast Food,3.5,29e3fb0e-25ed-4ab5-9f6a-0a8f8bd3074f
+228,Jail Road,Shree Baba Sweets,Mithai,3.4,e2f1c7f7-9179-423f-8752-d4a2cb025b5f
+229,Annapurna Road,Dairy Junction,Beverages,3.3,133ec279-14c9-4a13-be19-91def9614104
+230,Vijay Nagar,Ramesh Masala Dosa,South Indian,3.4,621fa92b-8da2-48cb-b017-6759696d4e62
+231,Bhawar Kuan,Baba Juice Centre,Street Food,3.5,e7b3acf8-bb9c-4bca-9437-89711b0dbcbe
+232,Jail Road,Anantanand Alpahar Gruh,North Indian,3.3,a6980450-e32e-4e4d-a435-4b8da1db4165
+233,Sarafa Bazaar,Kachori Corner,Street Food,3.4,437b3b8a-b796-4233-b611-70cc8a103e4a
+234,"56 Dukan, New Palasia",Milap The Pan Destination,Paan,3.2,258ff9de-571b-4b21-a547-be67248edcda
+235,Rajwada,RL Chat Bhandar,Street Food,3.5,4f863a65-74e4-4f27-b191-ead9bfa367d4
+236,Vijay Nagar,Chintu Momos,"Tibetan, Street Food",3.2,97c4c5c0-9b2f-4be5-b4ad-2398a9fb33b9
+237,Navlakha,Prem Paratha,North Indian,3.1,0000b415-0605-4803-9419-e01bf2ce10da
+238,Sarafa Bazaar,Potato Uncle,Fast Food,3.7,be3616fe-1ac4-42f5-af56-5f4a8a8f7e76
+239,Khajrana,Shree Parshwanath Pan Sadan,Paan,3,cd4ce489-4a38-4014-85d7-35570593ca3a
+240,Sarafa Bazaar,Agrawal Juice and Ice Cream,"Ice Cream, Juices, Beverages",3.3,5295dab9-26de-4517-848a-12b1c767bf2d
+241,Chhavani,Mangal Sweets,Mithai,3.1,f89cefb5-05f5-4583-ae92-a6be3b9fdee6
+242,Jail Road,Shahi Khaman- Jalaram Farsan,Gujarati,3.1,0bc61702-bf52-4728-bb9f-968fea044360
+243,Sarafa Bazaar,Baba Shree Paan,Paan,3.3,58a60307-05bb-4413-884d-88ca452a323f
+244,Vijay Nagar,Agrawal Nashta,Street Food,2.8,ddc6f288-d7fe-4ced-884f-f034cf42153d
+245,MR 10 Road,Shri Bharkha Devi Ice Cream,"Ice Cream, Chinese",3.2,c93c3e31-b5a6-42b3-9572-731070593ac0
+246,Vijay Nagar,Chintu Momos,Momos,3.3,7df69005-34f5-4f67-9f4e-f844df39144c
+247,New Palasia,Goyal Fruit Juice Centre,Beverages,3.2,5add30bc-2a9e-4c97-874e-a1576542b6ec
+248,Manik Bagh Road,Mahadev Lassi,Beverages,3.2,eb6eedd4-07f3-496a-a193-1de2be18f613
+249,Vijay Nagar,Karnawat Bhojan Prasadi,North Indian,3,9e448c86-efc6-4f6c-9a20-6e7e25a9c9d8
+250,Vijay Nagar,Shree Parshwanath Pan Sadan,Paan,2.8,5ba61a93-13ee-4ac6-980c-198321be1a77
+251,Geeta Bhavan,Vedant Chat Chaupati,Street Food,3.2,9474ed30-2c1f-44a0-9203-8de5281a5112
+252,Sarafa Bazaar,Indori Chinese point,Chinese,3,586d8661-e994-42d2-9bac-9a178a60125d
+253,Sarafa Bazaar,Bombay Bahu Chinese Point,"Chinese, Fast Food",2.8,463b909b-f7de-4a0f-8a55-d3a5be672d13
+254,"56 Dukan, New Palasia",Prayas Foods,Street Food,2.8,e36ff378-293d-4c26-ba5b-9f12fc78ae94
+255,Annapurna Road,Iceland Vadilal,"Desserts, Ice Cream",2.7,721c48f6-5ba8-4c2c-ab34-4e7a4eb18a1b
+256,Mari Mata Square,Jail Cafe Chai Bar,Fast Food,3.3,ef8d5d54-da72-4ea6-a2bb-1f96a3ca5946
+257,Khajrana,Pooja Kanchan Pan,Paan,3.5,634ca37f-c62c-4f6a-9146-23f3a0b6d72b
+258,Geeta Bhavan,Bholainath Fariyali Khichdi Center,"Sandwich, Fast Food, North Indian",3.1,5edc10c9-9dec-4f40-9991-e8b8ec42e495
+259,YN Road,Shree Parshwanath Pan Sadan,Paan,3.2,a8bf8758-2e7a-4595-937f-817953210f48
+260,Sudama Nagar,Sai Kripa Refreshment,"Fast Food, Street Food, South Indian, Bakery",3,84bc46be-3e93-452d-9ab4-bf4a35f30d6b
+261,Sarafa Bazaar,Bombay Refreshment,Street Food,3.1,9b39b4c7-b76d-435c-9cf5-7b83d0c0f4a3
+262,Gangwal Bus Stand,Salasar Snacks By Kharab Chai,Street Food,3,154e509b-672b-43e6-b7f0-a6a5dbf3eaf2
+263,Vijay Nagar,Jai Bajrang Bombay Bhel,Street Food,2.9,a1f6bc29-6d46-40eb-9bd2-2d3ee426bc98
+264,Vijay Nagar,Hot Point (The Royal Omlette),Street Food,3.3,57c92f81-62a6-4c62-8fec-04135894951d
+265,Vijay Nagar,Hot Point (The Royal Omlette),Street Food,3.1,aaa8faf1-9f14-4524-a5ec-b9703418d88d
+266,Vijay Nagar,Chintu Veg Momos,Momos,3,d8bd5a1e-25d6-4554-a864-d2fb0399edf2
+267,Annapurna Road,Baba Nariyal Pani,Beverages,3.1,cbdbb33e-6c44-4e11-90c2-04ca66158854
+268,Geeta Bhavan,Jai Shree Mahakal Juice Center,"Beverages, Juices",3.1,4ff3a54f-68f5-4f66-92d9-a6350ab328a9
+269,Sarafa Bazaar,Baba Nariyal Pani,Beverages,3.3,d26f38d4-5bcf-419f-8153-090a5b5c16f9
+270,Vijay Nagar,Veg Bites,Fast Food,3,8c282459-8402-4646-91a7-c41c126d25ff
+271,Vijay Nagar,Amrit Shri Ice Cream Parlour,"Ice Cream, Desserts",2.9,e9ae9062-f775-4e87-aa28-05c01a1f65cc
+272,Annapurna Road,Jai Ranjeet Gajak Bhandar,Mithai,3.1,efb6d89a-fe23-4c1f-8984-37b8b3681afa
+273,Rau,Babu Bakery and Dudh Dairy,"Bakery, Desserts",3,3fb0ec5d-cd42-42ff-8d74-9ea3a54c787c
+274,Airport Road,Choice Namkeen,Street Food,2.9,c8a41137-e6ee-444e-acc0-c4b5658783e2
+275,By Pass Road (North),Choice Namkeen,Street Food,3.1,777b1639-0cda-4830-a881-aeb75004a020
+276,New Palasia,Jai Bajrang Bombay Bhel,Street Food,2.9,e5144fff-d1e1-41b2-849d-e3f0f4590184
+277,Vijay Nagar,Jay Mahakal Aloo Paratha,North Indian,3,3eee0a7b-b018-4e02-ac06-1be30b4640be
+278,Vijay Nagar,Chai Network,"Beverages, Fast Food",3,7db6e511-cb4e-4349-aa78-5e44c3203626
+279,HIG-LIG,Anil Cafe,Street Food,3.1,c7cf099d-3613-4087-83ae-2728044c96e7
+280,Vijay Nagar,Shree Balaji Juice Centre,"Juices, Beverages",3,d2cf1679-d71f-44b5-a236-49c0d673ae94
+293,Vijay Nagar,Simi's,"Bakery, Desserts",4.6,1b755360-15ee-4908-b39e-16395cd4faef
+295,Vijay Nagar,Masters Bakery Krozzon,"Bakery, Fast Food",4.6,a38f45b9-b8e8-425a-93f1-0dff529c6e4b
+298,"Hotel Shreemaya Residency, Press Complex",Shreemaya Celebrity,"North Indian, South Indian, Italian, Chinese, Street Food",4.5,fb6144c0-133b-41e1-b3cb-9080e6b999fa
+303,South Tukoganj,South Avenue,North Indian,4.5,d56b4626-a5f8-4fa9-b7d6-dd7de744fc1d
+320,Sapna Sangeeta,Veera Di Hatti,North Indian,4.4,2ce1b8a5-a0a6-4502-8108-d4226e4172e2
+321,Old Palasia,Atul Sandwich And Cafe,Fast Food,4.4,c38ee5f6-0e58-4ec6-8418-ca82d0033296
+325,Vijay Nagar,Naturals Ice Cream,"Desserts, Ice Cream",4.4,b5425eb9-061e-4cd8-a6c7-181616ccbe12
+341,Bhawar Kuan,Pleasure House,"Cafe, Fast Food",4.3,a76a05b8-470c-403b-95a3-b82d8f2e61c4
+342,Vijay Nagar,Shreemaya Celebrity,"North Indian, South Indian, Italian, Chinese, Street Food",4.3,1625da42-bd5a-4535-a10b-d6cdbdd5356d
+343,Vijay Nagar,Cakesmith's Alley,"Bakery, Fast Food",4.3,4123089a-f147-4a22-9663-52677c724e0c
+344,"56 Dukan, New Palasia",Urban Desi Bistro,"North Indian, Mughlai",4.3,577e69bb-df75-4d40-9461-fc4cd0c4af00
+345,By Pass Road (South),Fork It Cafe,"Cafe, Fast Food",4.3,ac40a9ed-f333-4f72-b419-92c89e2bba8e
+347,Old Palasia,Chef Lucky's Paratha On Wheels,"North Indian, Fast Food, Biryani",4.3,889c6069-b6c8-4cfc-bdc0-50e67a546e7e
+348,New Palasia,Om Namkeen,Street Food,4.3,e82129ac-5596-458d-9994-008ed6a2bfe2
+350,Vijay Nagar,Drunken Monkey,"Beverages, Healthy Food, Fast Food",4.3,75dd096f-a77a-4634-8ecf-305bd84dd749
+351,New Palasia,Cakes & More,"Bakery, Desserts",4.3,99a69073-8453-44c2-86c7-12c4bed172ad
+352,Vijay Nagar,Hangover The Gastro Pub,"North Indian, Italian",4.3,a0d2d583-c610-49c7-b8ce-76fd02f7e0f0
+364,Old Palasia,Faasos,"Fast Food, North Indian, Biryani, Rolls, Wraps",4.2,c4e839d3-a7a5-452e-b072-14ddaad42127
+365,Bhawar Kuan,Oye Pappe,"North Indian, Fast Food",4.2,d8785097-1fa5-40cb-8a83-49aea428efa1
+366,Rau,Chef's Alcove,"American, Mexican, Italian",4.2,d1fb9e60-98d5-432e-a15d-abf3b7301bcb
+367,"56 Dukan, New Palasia",Oye Pappe,"North Indian, Street Food",4.2,1f74bca1-c98f-43ce-aa39-33edf3bce625
+369,Old Palasia,Tinku's,"Sandwich, Fast Food, Beverages",4.2,445be7e6-337a-4b57-a0fe-cc67f751e53e
+370,New Palasia,Cream Stone,"Ice Cream, Desserts",4.2,e8bee8ed-5a91-4749-a9bd-92147720a1e1
+371,YN Road,Bake Affaire,"Fast Food, Bakery",4.2,43dbc8d4-861c-40ae-9790-ebd57f70507f
+373,"Mangal City Mall, Vijay Nagar",Faasos,"Fast Food, North Indian, Biryani, Rolls, Wraps",4.2,754f1caf-316a-4eb3-b76b-edcac0c4fb29
+374,Old Palasia,Laxmi Narayan Doodhwala,"Mithai, Fast Food",4.2,0dd885da-f211-497a-a1ee-364a831d6f1e
+375,Old Palasia,Shree Gautam Chinese,Chinese,4.2,75ee0cfd-d65e-4722-875e-d9ab1a019c54
+376,YN Road,Tea Diaries,Cafe,4.2,fe4d21a2-1c61-44d7-adee-2775d00dea94
+378,Old Palasia,Waffles & More,"Cafe, Desserts",4.2,cb8fc7f3-0192-477f-ab02-635ee8af5128
+379,Old Palasia,Keventers,"Beverages, Desserts, Ice Cream",4.2,7c0671d4-73fa-4d14-a3e7-2102bdf9ce50
+380,Sapna Sangeeta,Om Namkeen,Street Food,4.2,5fb25ff7-45c2-4e83-ba4d-cf2ba044e569
+381,"The Red Maple Mashal, Rau",Nautica - The Red Maple,"North Indian, Chinese",2.1,3610d350-50af-46ae-a572-acf0d3e7f8ce
+382,Vijay Nagar,The Container Cafe,Fast Food,2.2,cff0fd13-82b6-4746-a677-d7816666300d
+383,By Pass Road (North),Shri Balaji,"North Indian, Chinese",2.2,85107b7a-ef79-4ee8-bb78-343a17f989ce
+384,"The Red Maple Mashal, Rau",Woodstock Cafe - The Red Maple,"North Indian, Chinese, Cafe",2.3,f425de9a-c6e9-494b-b9d6-fd87b6a4119d
+385,Rau,Apna Sweets,"Mithai, North Indian, South Indian, Beverages",2.4,d39f063d-dde9-4d52-93c4-fbd55e1c7005
+386,Chhavani,Chai Kaapi,"Fast Food, Beverages",2.4,3356b9f0-b2ad-4344-9203-cdf36a310b3f
+387,"56 Dukan, New Palasia",LIG Maggie & Pasta,Fast Food,2.4,98143b14-c0bc-4b38-9b51-d0bafe4b7559
+388,By Pass Road (North),Khana Khazana K2,"North Indian, Chinese",2.4,b0eb3397-6305-4cec-b7c9-8cbd66dc84ea
+389,"Golden Gate, Vijay Nagar",Bocca Buona,"Cafe, Fast Food",2.4,9551f650-aef1-4329-86ff-39613bd146ae
+390,Vijay Nagar,Jain Mithai Bhandar,"Mithai, Street Food",2.4,868e4029-5fce-4b9d-8088-a7ac59011933
+391,By Pass Road (North),Angithi Restaurant,"North Indian, Chinese",2.4,88217731-7c95-4584-80c6-ea359938f974
+392,YN Road,Mharo Rajwaad,Rajasthani,2.5,6f486a82-b261-4de5-a472-698abe20e9ed
+393,"Mathurawala, Airport Road",Mathurawala Sweets,Mithai,2.5,0284d82f-84b5-4080-b627-85c850fb91f1
+395,Bhawar Kuan,Gyani's Kafe,"Fast Food, Desserts",2.5,cd0494d8-56f5-46fc-bc5b-8711cb8b0889
+396,By Pass Road (South),Baree's - Punjabis By Nature,"North Indian, Chinese",2.5,de4d50e8-f157-4cf8-aca7-217fe12929db
+397,Old Palasia,FOI- Food of Indians,"Fast Food, Momos, Beverages",2.5,72a528d9-b226-4d28-8c2d-db7e050084e4
+398,Vijay Nagar,Ab Tak 56,"Sandwich, Fast Food, North Indian",2.5,693194e1-368e-4558-855b-24d3904a0b3f
+399,HIG-LIG,Bherunath,"Fast Food, North Indian",2.5,4713dd34-31af-4018-a130-0e1df3d39ea2
+400,Manik Bagh Road,Cakes To Indore,Bakery,2.5,cbc1e002-7a57-4ba8-b664-ab8535578413
+401,Vijay Nagar,Mr. Bawarchi,"North Indian, Fast Food",2.6,09c82e69-632f-4624-acbb-832127478307
+402,Khajrana,Mclaren's Cafe,"Cafe, Mexican, Fast Food",2.6,c0437bcb-d0a5-4776-ac75-0887dd70eb3c
+403,Bhawar Kuan,The Cafe Square,"Cafe, North Indian",2.6,ffd12bfb-bf92-4df1-be59-d25e78c01a0d
+404,Bhawar Kuan,Cafe Lagoon,"Fast Food, Beverages",2.6,054ad78b-023e-49d5-bf8f-4a4e7180e82c
+405,Geeta Bhavan,Famous Dal Bafale,Rajasthani,2.6,55c96968-1c04-437e-a2b5-001e2157c6ca
+406,Vijay Nagar,Youth Adda,"North Indian, South Indian, Fast Food",2.6,62a6f618-16a8-4aca-995c-9f2d15da7ddf
+407,Vijay Nagar,Mid Town Madness,"North Indian, Chinese",2.6,56cebffe-9c89-4abc-8236-36da94b9ce27
+408,By Pass Road (North),Clam O Bar,North Indian,2.6,ae91daae-4cac-4ef7-ad2e-6d60a510e58f
+409,"Treasure Island Mall, South Tukoganj",Victoria Club & Lounge,"Finger Food, North Indian, Chinese",2.6,739c254c-676e-4301-a595-903ae18e71b1
+410,Sudama Nagar,Gabba's Cake,"Desserts, Bakery",2.6,7439de83-0390-4d6a-8d31-2ecf6f68aa56
+411,Rajendra Nagar,Alav,"North Indian, Chinese",2.6,c8d86a31-0027-4d47-b4b3-0a11dd0d9db4
+412,HIG-LIG,Chaar Bhuja Sweets & Namkeen,Mithai,2.6,85b0e9f9-01e2-4e60-bc4e-a31da8f06161
+413,"Treasure Island Mall, South Tukoganj",Ginger Ganesha,South Indian,2.6,8303c202-f06d-4084-97ec-fa488a640261
+414,Airport Road,Shree Krishna Bhojnalay,North Indian,2.6,f6643522-56bb-47bc-9ec6-70313be50085
+415,Rau,Yash Dhaba,"North Indian, Chinese",2.6,c0970e94-8dc4-49e8-bad8-412d53481a99
+416,Old Palasia,Blackwood Cafe,"Sandwich, Fast Food",2.6,4e37561c-e779-4a2e-bbc1-5d160ae2428f
+417,Navlakha,Mamaji Restaurant & Bhojnalay,North Indian,2.6,337aefc7-6872-47fb-8d5f-c3651534cb7a
+418,Sapna Sangeeta,Al - Quddus Restaurant,"North Indian, Chinese",2.6,2428a12c-7d88-4c39-837b-ad8ec070f9c2
+419,Sudama Nagar,Khaoo Restaurant,North Indian,2.6,c8a021b1-546c-4d38-bc42-2527af43e418
+420,Gangwal Bus Stand,Hotel Pearl & Restaurant,"North Indian, Chinese",2.6,43bc7657-73f7-4e82-b19e-0ae74839b935
+421,Airport Road,Domino's Pizza,"Pizza, Fast Food",2.7,ae0618b4-9a8e-498c-b2e5-bc60ab324415
+422,Vijay Nagar,Sam's Pizza,"Fast Food, Pizza",2.7,fad1ab49-fefd-46c3-a85d-3ffa28ce8a3a
+423,Sudama Nagar,Mithas 24,"Mithai, Fast Food, Street Food",2.7,4bec8f5c-484d-4a52-9e97-0f00d53c385f
+424,"BCM Heights, Vijay Nagar",Panditji - Pure Veg Restaurant,"North Indian, Chinese",2.7,21547772-9743-4310-b1d0-4ea6c3259ba6
+425,Annapurna Road,Beyond Temptation,"Cafe, Sandwich, Fast Food",2.7,23b35a60-355b-4bf4-884d-4d1ff75de7d6
+426,Vijay Nagar,Tea Post,"Cafe, Fast Food",2.7,b28bb279-2187-4b49-8951-164d918a3e86
+427,"Mathurawala, Airport Road",Mathurawala Restaurant,"Chinese, South Indian, Fast Food",2.7,9837bf8e-067e-4af5-8aa0-caea5dccb0d8
+428,Vijay Nagar,Hat's Off,"North Indian, Chinese",2.7,5ddbaf95-8f01-4584-a05b-ee5cfd711ef6
+429,"Hotel Kings Park, Bhawar Kuan",Saffron,"North Indian, Chinese",2.7,c8a1ab7b-78a3-4824-90c2-b1ac103be0dc
+430,Sapna Sangeeta,Delhi Darbar Dhaba,North Indian,2.7,b8ce9d42-3e2f-4177-a8a9-1abb1cc5b9d7
+431,South Tukoganj,India Junction,"North Indian, Chinese, Salad",2.7,28f95d70-a291-4af8-82e1-4e633f22be7f
+432,MR 10 Road,Destiny Kitchen,North Indian,2.7,2d732c94-e1a1-470a-9a8d-9d7e97ccec23
+433,Vijay Nagar,CBZ,Fast Food,2.7,d2b22756-068c-4a6e-ba9e-5fbca5e1e722
+434,MR 10 Road,Black Pearl,"North Indian, Fast Food",2.7,f67295fc-87f6-4edf-9121-098c1c89d211
+435,Old Palasia,Cafe Coffee Day,"Beverages, Cafe, Sandwich, Fast Food",2.7,e5a0826c-f8d6-4655-a184-430c8e0e8bf9
+436,Khajrana,The Indorie Kitchen,Fast Food,2.7,d345dad8-2eee-4513-8a56-d3bbfc5c3c61
+437,"Malhar Mega Mall, Vijay Nagar",Cafe Idiots,"South Indian, Fast Food, Tea, Beverages",2.7,f87f047e-ec94-447f-8a4b-21f26504bf60
+438,HIG-LIG,Sky Hi,"Fast Food, Chinese",2.7,253cfa1f-5c4e-4bc5-a1f5-396fe915c4c6
+439,Sudama Nagar,Chinu's Cafe,Fast Food,2.7,73ba3e0d-f894-4ee9-8bc6-0ac9b3b88f68
+440,Vijay Nagar,Cafe El Carpediem,Cafe,2.7,7eb5d581-2f8e-4de8-9cc0-74ae197606ef
+441,New Palasia,The London Salon & Cafe,Fast Food,2.7,e3e19178-bc64-41d2-9bd4-b1ab9b4d9b49
+442,By Pass Road (North),Cake's Valley,"Bakery, Fast Food",2.7,966cfebf-7834-4d6c-b442-6e8860003913
+443,Old Palasia,Shri Bhojanalaya,North Indian,2.7,bb55c260-e9c3-4201-a730-6d16b2dd17ed
+444,Sarafa Bazaar,Momos Villa,Tibetan,2.7,6e7c244e-4338-4c45-8ad5-66965c4b1665
+445,"Mangal City Mall, Vijay Nagar",seon veg restaurant,"North Indian, Fast Food, Beverages",2.7,d5e3a6a6-8c52-453f-8655-6e1acfc622fa
+446,"Treasure Island Mall, South Tukoganj",Chillz,Beverages,2.7,3141e8c2-5bf8-4d4a-8a86-1e5f30be35c3
+448,HIG-LIG,Shraddha Chinese  Point,"Chinese, Fast Food",2.7,3d83c0fe-d87c-43e8-a8f5-8f2584525360
+449,Gangwal Bus Stand,Yashika Palace,"North Indian, Chinese",2.7,04f9d47f-dfb8-4cc4-a800-78c73c38b872
+450,Bhawar Kuan,Dev's Bakery,"Bakery, Fast Food",2.8,b0d84605-e705-491c-ab6f-21277a86a349
+451,Geeta Bhavan,K2H Cafe and Restaurant,"North Indian, Fast Food",2.8,cb5996ba-b29f-4a4f-b0cd-d02cd89fd8b7
+452,"56 Dukan, New Palasia",OMG Lunch Buzzer,"North Indian, South Indian, Chinese",2.8,41c7ee07-635b-427e-a58f-6c305316dff5
+453,Old Palasia,The London Shakes & Cafe,"Beverages, Fast Food",2.8,bf0f98e5-0438-4b49-95f0-641db4196a91
+454,Vijay Nagar,Cake Boutique,"Bakery, Fast Food",2.8,e4b546ad-9729-4257-9f04-f88a01b79443
+455,Khajrana,Biryanotech Cafe,"Fast Food, North Indian, Chinese",2.8,fb2a2fb2-5a3f-4335-bcbf-37890d3e9ad4
+456,Bhawar Kuan,Cafe Emotions,"Cafe, Fast Food",2.8,2b4683dc-68ae-4525-b5fc-3533ecb912e0
+457,Bhawar Kuan,Big Boss Restaurant,"North Indian, Chinese, Fast Food, Desserts",2.8,c392fdee-a835-49ef-80de-6f0fc007e9aa
+458,MR 10 Road,Amrapali Restaurant,North Indian,2.8,b6d34e85-f3f2-4688-8a60-e483abebfa9b
+459,Vijay Nagar,Maakhan Mishri,"Fast Food, South Indian, Street Food",2.8,c2cc1199-a7d4-4321-a2c4-e697e7c00e90
+460,"56 Dukan, New Palasia",Chick N Serve,Fast Food,2.8,1d61b46f-2ed2-4cf2-b579-01a1a7089241
+461,Vijay Nagar,Jain Bhojanalay,North Indian,2.8,3ceee623-7af3-4f8a-81ed-6ff3e96ffcb7
+462,Sarafa Bazaar,Agrawal Sweets,Mithai,2.8,816df4da-c0c5-45eb-b464-b1b6e2d3bf5b
+463,Bhawar Kuan,Cafe Cubano,"Italian, Fast Food",2.8,0e07b0db-1023-4f87-90e4-7307db46fdb0
+464,MR 10 Road,Kadaknath Special Chicken Restaurant,North Indian,2.8,fe75a206-8d52-49c4-8c47-94a64bc03829
+466,Manik Bagh Road,Mugs And Beans,"North Indian, Italian, Fast Food",2.8,a4ee2e8f-bf58-40be-807d-6b640731db60
+467,"Treasure Island Mall, South Tukoganj",Subway,"Healthy Food, Sandwich, Salad",2.8,e55e0b79-69b8-49f4-bb7e-fde9e560a0ec
+469,Geeta Bhavan,Chickenlicious Indore,Fast Food,2.8,1030d694-d12f-4ef3-acfd-ba4801d200be
+470,Rau,Eenadee Cafe N Restaurant,Cafe,2.8,6f27d250-a16a-47d9-abeb-65aaf292c231
+471,Vijay Nagar,Sawariya Khichdi,North Indian,2.8,0c3fe6f1-6808-4e5d-8d42-42836d4f5ade
+472,Khajrana,Nation Nutrition,Healthy Food,2.8,4c59f535-3d01-42e9-9625-cc99a84d193c
+473,Sapna Sangeeta,The London Shakes & Cafe,"Beverages, Fast Food",2.8,1dec260d-246d-4b8f-a2be-8894b578fd55
+474,Khajrana,Chai Kaapi,"Fast Food, Beverages",2.8,19d4f40c-edb2-423f-ae91-7b0066946953
+475,Gangwal Bus Stand,Ajab Gajab,"South Indian, North Indian, Chinese, Street Food",2.8,b1382576-56a9-4d1b-95e8-d5c9a7061c68
+476,"Mathurawala, RNT Marg",Mathurawala Chat Chowpati & Bakery,Street Food,2.8,1710c252-a083-4331-9fa9-9eb6fa3d3e4f
+477,Vijay Nagar,K2H,"North Indian, Chinese, Fast Food",2.8,73cc2374-5de6-4f30-ab18-fe885cd5f619
+478,Malharganj,MealGaadi,"North Indian, Fast Food",2.8,4404d37e-9310-4940-8e15-1f94dc690d4a
+479,Bombay Bazaar,Nema Gajak Kulfi,Desserts,2.8,e9359fe8-cf55-4acd-a557-3179c01b4c04
+480,MR 10 Road,Shree Nath Restaurant,North Indian,2.8,8320889a-e11a-4952-9f13-a96cadfb2ef1
+530,Bombay Bazaar,Apna Sweets,"Mithai, North Indian, South Indian, Beverages",3.2,958a4783-f836-40d4-b2a6-7e585c754182
+532,Old Palasia,Cakes N' Craft,"Bakery, Desserts",3.9,2cd839d1-212d-4ae1-bff9-3b9fd2f405df
+533,Sudama Nagar,Domino's Pizza,"Pizza, Fast Food",3.4,834aee85-9e3f-439d-acc5-dee418630fb7
+535,Vijay Nagar,Nom! Nom! Chinese,"Chinese, Seafood",4.1,11e7c470-dfd7-48df-a168-c9d454dde62d
+543,Khajrana,Khaanafest,"North Indian, Chinese, Beverages",3.9,ab5cd171-0b8b-4b29-b92d-faa9c059fe0e
+544,Gangwal Bus Stand,Madni Non Veg Restaurant,"North Indian, Biryani",4.1,55cf6cf1-e394-481f-8e48-f72857d6ef44
+545,Old Palasia,Chai Kaapi,"Fast Food, Beverages, Tea",4.1,6195a090-8fba-4857-97d7-5fc8e18d3f32
+546,Old Palasia,Chakhna Cafe,"Chinese, Fast Food, North Indian, Beverages",3.9,598f7829-495e-4eae-ae58-30a6e2363f84
+547,Old Palasia,Pizza Hut,"Pizza, Fast Food, Italian",3.3,decc74fc-b8ba-462d-973c-52566fa14c7c
+549,"BCM Heights, Vijay Nagar",The Chocolate Room,"Cafe, Desserts",3.9,785368b6-8467-4fe0-ad94-08eed6ee6a44
+550,"56 Dukan, New Palasia",Sam's Momos,"Momos, Chinese, Rolls, North Indian, Fast Food",4,55834023-8770-4162-848f-e80b3ba095f8
+551,"Mangal City Mall, Vijay Nagar",McDonald's,"Burger, Fast Food, Beverages, Cafe, Desserts",4.1,7a854a1c-1102-41ff-b780-5b624661ac87
+554,Vijay Nagar,Noor's Kitchen,"Mughlai, North Indian, Kebab",4,5db5de2b-c497-4ec3-98b2-f17db4b2325d
+555,Sudama Nagar,Yummy Tummy The Cheese Bar,"Fast Food, Street Food",3.9,26cf01e7-7a0f-401c-b814-d919c00c2f46
+556,RNT Marg,Domino's Pizza,"Pizza, Fast Food",3.7,12d61c04-126e-4224-8d97-e106ad7088c2
+558,By Pass Road (North),Midnight Chillies,North Indian,3.7,00f87c13-868f-46d9-a995-80269874f6bd
+559,New Palasia,Cafe Kono,Cafe,4,4139c4b9-fd50-4c2b-b277-079d76e399d4
+560,Sapna Sangeeta,Cafe Kono,"Sandwich, Fast Food, Beverages",4,896ff9d1-caae-474e-b048-d3c2a98f5552
+562,"Treasure Island Mall, South Tukoganj",McDonald's,"Burger, Fast Food, Beverages, Cafe, Desserts",4.1,aeff7483-2ce9-4543-a1ac-c67ff3197663
+563,Bhawar Kuan,McDonald's,"Burger, Fast Food, Beverages, Cafe, Desserts",4.1,755a1fcf-bf74-4db8-9279-fff1804beea2
+564,"Malhar Mega Mall, Vijay Nagar",Panchavati Gaurav,"Gujarati, Rajasthani",3.9,b3992297-6bf0-4582-b260-638c30cf13fd
+566,Rau,Wanna Puff,"Fast Food, Beverages",3.7,bb25bd73-cd6b-46f4-bf6c-ce4cc9036b70
+567," Hotel Somdeep Palace, Vijay Nagar",12 AM - Hotel Somdeep Palace,North Indian,4.1,0a568b92-347c-4649-a3f2-72a5a1dfbebd
+568,Bombay Bazaar,Saify Hotel,"North Indian, Mughlai",4,a5edbff2-7ca9-4578-8b63-4651290a45b0
+571,Sarwate Bus Stand,Hotel Shree Leela,North Indian,3.8,0139df89-70bf-4b69-9fff-574c1bbec69d
+573,Geeta Bhavan,Gordhan Thal,Gujarati,3.9,fc907b91-c537-4b79-8d90-9fd3a66eb281
+575,Vijay Nagar,Icekraft,"Desserts, Ice Cream, Fast Food",4.1,e3ca5585-5b15-43fe-bfc4-bd8510fcb0ed
+577,Sudama Nagar,Ranjeet's Kitchen,North Indian,3.3,dfebb66d-489c-41a0-a574-155c3d997344
+579,Vijay Nagar,Make My Sandwich,"Sandwich, Fast Food",3.9,0cfbe58d-a21d-44a1-8031-8197ac8fc27d
+617,Geeta Bhavan,Urban Lokal Cafe,"Fast Food, North Indian",4.1,1bcb70cf-ff9b-48fe-9963-1a4806f1f2c5
+618,Vijay Nagar,Spicy Family Restaurant,"North Indian, Chinese, Mughlai",3.7,79975bd1-864b-45d3-98be-399de568ed67
+624,Vijay Nagar,Linkbite,"North Indian, Chinese, Mughlai",3.7,44d2ae25-9f83-46b6-a5a2-7a3b631e98be
+627,Vijay Nagar,Apna Dhaba(MTM),"North Indian, Chinese",3.4,8caa773b-be2b-4fbe-91ec-d312adff73e0
+630,Old Palasia,Veg Bites,"North Indian, Chinese, Fast Food",3.7,df0e7cf3-0625-4505-92fe-e73782f94566
+632,Sudama Nagar,Lucky Bakers,"Bakery, Fast Food",3.9,309aa512-1671-435c-899e-62c18446c3d8
+633,Old Palasia,Fantasy,"Italian, Fast Food",3.9,7ca8132e-6dbf-43e6-8d77-7d61c92acd8e
+634,Vijay Nagar,Sigdi - Sizzler & South Indian,"South Indian, Chinese, Italian",3.9,9756079d-dd5f-4247-8813-6ca7b4ff7278
+635,Sapna Sangeeta,Veg Bites,"North Indian, Chinese, Fast Food",3.6,7c3d21f6-3b13-4789-99c2-e8aa24b52a86
+638,Bombay Bazaar,Saify Family Restaurant,"North Indian, Chinese, Mughlai",3.8,780ad738-61f3-48f5-89bd-4bce11ea388c
+645,"56 Dukan, New Palasia",Young Tarang,"Street Food, South Indian",3.8,1334c2d7-9d9e-46cb-931d-3c52448b3e3b
+652,Vijay Nagar,Sharma Namkeen Mithaiyan,"North Indian, Chinese, South Indian, Street Food, Beverages",4,f37f1a58-8786-4a68-8659-7529fbfd76e7
+653,New Palasia,MP-09 Nagpal's Chole Bhature,"Street Food, North Indian",4.1,74e46dbe-35f7-4561-9609-541ec63d6864
+655,Rau,NH3 Kitchen,"Cafe, North Indian",4,8b52f8d9-15ac-4835-bb82-9f2e3759bc1a
+658,South Tukoganj,Ansh Restaurant,"North Indian, Chinese, Mughlai",3.9,0aa82922-9652-49a4-b5d6-2f13b5ba0315
+659,Vijay Nagar,Riddhi Siddhi,"North Indian, South Indian, Chinese, Fast Food",3.3,cd10a9a7-eb30-4185-bebe-5e6535fab4cd
+660,Vijay Nagar,Chill Baby,"Chinese, Fast Food",3.7,885e77d1-94b5-428b-af50-2540f02f0268
+661,Vijay Nagar,Sagar Gaire,"South Indian, Fast Food",3.9,6808aa82-f864-4aff-b030-b35c0852a440
+662,"56 Dukan, New Palasia",Ramesh Masala Dosa,South Indian,4,55d75576-1126-4c43-a828-0f558fcb686f
+663,"BCM Heights, Vijay Nagar",Indian Coffee House,"South Indian, North Indian, Chinese, Fast Food",3.9,890f2b19-eb74-431a-87dc-dfbf65abaae7
+664,Jail Road,Paneer King,"North Indian, Chinese",4,920641be-a168-4534-915b-afb398129850
+665,"Mangal City Mall, Vijay Nagar",Ashirwad Bhojnalaya,North Indian,3.6,343ed9f9-1919-4540-bfd4-d8c6005939ab
+666,Manik Bagh Road,Chick N Serve,"Lebanese, North Indian, Chinese",3.9,32a99fd0-96e7-49c7-a61e-8131714b9a2d
+668,Old Palasia,Mr. Eggzotic,"Fast Food, North Indian, Street Food",3.3,3fe91ccc-359f-4034-8561-8b9f35c9ef8f
+669,Vijay Nagar,Chai Kaapi,"Fast Food, Beverages, Tea",4.1,342811e4-7c3d-41eb-8701-3fcef52c91ff
+670,Vijay Nagar,Udan Khatola,"Fast Food, Beverages",4.1,03ed9eae-f5d2-4228-bdfd-14e892e796fb
+672,Sarwate Bus Stand,Rajkamal Dal Bafle,North Indian,3.9,8e38ea90-e1da-4c7b-9f33-8ab6d7814443
+673,Bhawar Kuan,Swaad Delhi Da,"Rolls, North Indian",3.9,3ca4d3a1-265f-4e1c-838b-21d32526c4a0
+674,Manik Bagh Road,Shawarma Grill & Momo Station,"Lebanese, Momos, Fast Food",4,aa92b665-34e5-4dba-be2d-07d7786b90f1
+676,Vijay Nagar,Veg Bites,"North Indian, Chinese, Fast Food",3.6,91ac89d1-44a3-46bb-a517-c395cb9ecf01
+677,Manik Bagh Road,Bablu Sandwich,Sandwich,4.1,c6ca80ff-381b-44ad-9ca5-5e9d186bad77
+678,By Pass Road (North),Drool- The Highway Shack,"North Indian, Pizza, Chinese, Fast Food, Beverages",4,e7efbf39-1975-46e3-97e0-0d16f2d0d55f
+679,Vijay Nagar,Babluji Punjabi Foods & Cafe,"North Indian, Street Food",3.9,15a08d9a-6f76-4b13-941a-fa82db72af78
+680,Sapna Sangeeta,Upvaas,"Fast Food, Beverages",3.8,cacca270-8d61-487e-adeb-9c895823094d
+720,"BCM Heights, Vijay Nagar",Goldy Di Hatti,"North Indian, Chinese, Biryani",3.9,b68c1df5-5769-4d69-a52c-c5b0c44f12f1
+721,Old Palasia,Rangla Punjab The Dhaba,"North Indian, Chinese",3.9,dff05381-07a8-4076-8b57-ffd7c43a2785
+726,Vijay Nagar,Cream Centre,"North Indian, Italian, Mexican",3.9,436c2fd3-54be-4896-abb2-926b7ed368c0
+728,Rajendra Nagar,Lotus Cafe & Restaurant,"Cafe, North Indian",3.3,17346fa9-5736-491a-a920-24971998bc23
+730,Vijay Nagar,Freito,"Mexican, Italian, Cafe",4,47209b9f-359e-45b7-b03b-6b573f9ca4d3
+731,Vijay Nagar,Pitchers Cafebar,"North Indian, Italian, Fast Food",4,b43074ba-097a-43d4-bbc7-affeb036ee4c
+732,Bhawar Kuan,Kebabilal's,"North Indian, Chinese",3.7,eda2bb6c-6f7c-429e-b268-494627ac62bb
+736,New Palasia,Alav,"North Indian, Chinese",4,28aeb31b-a74d-4e60-8478-d648a71d0459
+738,Vijay Nagar,House Of Malts,"North Indian, Italian",4.1,e8e2dbb2-d25e-48d6-b793-c45bd5e926c2
+739,Old Palasia,Angaraa,"North Indian, Chinese",3.2,33b58bdf-4cc3-4178-ae7a-2790af8a8019
+740,South Tukoganj,Shree Chotiwala Restaurant,"North Indian, Chinese",3.7,16f5ae57-72c2-44f3-884b-41dc0277d815
+743,Vijay Nagar,Vrindavan Restaurant,"North Indian, Chinese, Mughlai",3.7,2bb562e7-ad77-481c-aa6c-526ba48c37ec
+744,South Tukoganj,Oakaz - Cafe and Restaurant,"Cafe, North Indian, Fast Food",3.7,e5207766-88d1-4eca-9fb3-834c84d28c85
+748,By Pass Road (North),Khanabadosh,"North Indian, Chinese",3.6,73a62a26-bfce-47cb-821b-6dcbd2a384d0
+750,Vijay Nagar,Mud Oven,"North Indian, Chinese, Italian",3.6,a8a5572e-8bec-46fa-9f99-0accfce0299a
+752,MR 10 Road,Charpai - The Dhaba,"North Indian, South Indian",3.8,8772e06f-ec69-49da-affe-023c34f91b8a
+753,Old Palasia,Cafe Palette,"Cafe, Mexican, Italian",4,d62ff44a-622f-4e07-b6da-ca762f81a897
+754,Vijay Nagar,Mr. Singh's,"North Indian, Chinese, Mughlai, Fast Food, Seafood",3.7,7162c7ff-9be7-448f-93da-85f353d64a5b
+756,By Pass Road (North),GFC - The Great Food Company,"North Indian, Chinese",3.9,cd06423a-35e9-4a72-a334-9f9071ac3209
+759,Annapurna Road,The Urban Rasoi,"North Indian, Chinese",4,daeb8eab-0db2-4782-ad67-7c492706bbe4
+761,By Pass Road (North),Aieroc  Resto Cafe,Cafe,4,e3b0eea5-cdda-4726-a462-97fb16b87f88
+763,Vijay Nagar,Culture Restaurant,North Indian,3.8,1a6e46a0-db42-4d2f-bd38-2aca62ce6c43
+764,Vijay Nagar,LSD - Love Sugar & Dough,"Bakery, North Indian, Italian",4.1,617c58d1-a3dd-4662-adea-ad5be578a00e
+765,Vijay Nagar,Bapu Ki Kutiya,"North Indian, Chinese",3.9,d6d90040-9231-4f4d-a25f-fdee3e0761a4
+766,Sapna Sangeeta,Shreeleela Bhojnalaya,North Indian,3.4,c3b7a5c7-24c9-4333-ada1-09b041dc9e6a
+767,Sapna Sangeeta,D2i,"North Indian, Mughlai, Chinese",3.9,af156826-cc71-4940-886e-c924c3228664
+769,Sapna Sangeeta,Jalsa,North Indian,3.7,540e0030-acbc-41c6-90c9-16cd599b8b21
+770,Rau,Nakhrali Dhani,Rajasthani,4,fde25d9e-9346-4d08-9e2f-fde3f13fdff3
+771,Airport Road,M2 Restaurant,North Indian,3.7,dae5e195-739e-4ca3-acc5-a40de921cb62
+772,Rau,The Sultan's,"Arabian, North Indian",4.1,b86e1c90-ad72-4b44-b966-870c20e50379
+775,New Palasia,Hotel Apna Avenue Foody,"North Indian, Chinese, Fast Food",4,88dc6b39-232e-490d-a905-5c50cb44b7e5
+777,Bhawar Kuan,Chlorophyll,"Chinese, North Indian, Fast Food",3.7,a74b1b7b-db07-49a6-96be-06c68429e3af
+778,By Pass Road (North),Riddhi Siddhi,"North Indian, South Indian, Chinese",3.2,6b71cec2-9b82-429b-9f2c-90aa40669216
+779,"BCM Heights, Vijay Nagar",Kukdu Kuu Club,"North Indian, Mughlai",3.5,21af091e-01b1-4ac8-8072-a71e42676ecf
+780,Vijay Nagar,Romba South,"Andhra, South Indian",4,cb74e2ea-f335-4802-942e-ee96ffc79726
+789,Vijay Nagar,Cakes N' Craft,"Bakery, Desserts",3.9,2b8b0a1f-4e84-48e9-84a5-415bb8c598a5
+790,Sapna Sangeeta,I Contrast,"Ice Cream, Desserts",4.1,4a651d79-93b6-4e9f-9a25-8b223a81f91a
+791,Old Palasia,The Belgian Waffle Co.,"Desserts, Beverages",4.1,b43cfe31-309c-49a3-9afc-bb02e08c06d0
+792,Annapurna Road,Monica Galaxy,"Ice Cream, Desserts",4,cec03b82-3e89-4433-9ce3-7475a9a48381
+793,YN Road,Top 'N' Town,"Ice Cream, Desserts",4.1,e2a464ff-54dd-4ea8-89c5-6f31849b230c
+795,New Palasia,London Bubble Co.,"Desserts, Ice Cream",4,9c782054-efe0-4e0f-9c4d-19600ef440bb
+796,Vijay Nagar,World of Waffles,Desserts,4,cee634fa-9a33-4120-8e1c-8ec761f2604e
+797,Old Palasia,Una's,"Desserts, Beverages",4,44d704e6-f03a-439d-b82d-dd7e61ccd720
+798,Old Palasia,Sweet N Slice,"Desserts, Fast Food, Beverages",3.6,08bef47c-60fa-40f7-ab9c-4ff6bb1f64c1
+799,YN Road,Sheetal Gazak & Kulfi,"Ice Cream, Desserts",4.1,53c06b6f-262e-4907-b318-3f21cef2ab7c
+800,YN Road,Monica Galaxy,"Ice Cream, Desserts",3.6,46411315-d588-451a-8739-dcdbb9359fee
+801,Sapna Sangeeta,The Belgian Waffle Co.,"Desserts, Beverages",3.7,b67d8eba-58e8-4e5f-a267-65546d7b35b9
+802,Vijay Nagar,Cool Uncle Ice Cream Lounge & Cafe,"Ice Cream, Fast Food, Beverages",3.9,8124672d-433f-4eea-9605-e71f5da5119c
+803,"56 Dukan, New Palasia",Live Tawa Ice Cream,"Ice Cream, Beverages",3.9,80007ab0-b522-4ea7-a9ba-d640f81558a2
+804,Old Palasia,99 PanCakes,"Desserts, Healthy Food",4,273b64b0-fee9-4f0a-932a-626c32e9197c
+805,Sudama Nagar,Cool Uncle Ice Cream Lounge & Cafe,"Ice Cream, Desserts, Fast Food",3.8,f9f2ab02-53e2-4089-99c8-d739a592520e
+806,Sudama Nagar,N.O.W - Nest of Waffles,"Desserts, Fast Food",4,7a314ba6-c6fb-407d-92a1-c9cf4dee8d0a
+807,Sapna Sangeeta,Top 'N' Town,"Ice Cream, Desserts",3.6,6e4df989-6398-4d44-9b99-fee6138a47de
+808,Manik Bagh Road,Havmor- Ice creams,"Desserts, Ice Cream",3.7,0300cc35-167c-4e85-a406-044ef81cc7cd
+809,Annapurna Road,Top N Town - Humpty Dumpty,"Ice Cream, Desserts",3.8,3af5be34-919a-4521-a3b6-01610593412a
+810,"Treasure Island Mall, South Tukoganj",McCafe,"Cafe, Desserts",3.7,d9482fb4-b6ae-4145-a871-be9516d8c74c
+811,Old Palasia,The Cake Story,"Desserts, Bakery",3.8,f5d3551e-7722-42da-9c0f-fca4dfe8b69b
+812,Bombay Bazaar,Nema Sweets,Desserts,3.2,731bd509-bf37-4e3f-bfdd-1c221e54ee1c
+813,Kothari Market,Top 'N' Town,"Ice Cream, Desserts",3.4,a6fc36e7-f659-45c1-af1b-e18a3b57f492
+814,Old Palasia,Dinshaw's Cream Studio,"Desserts, Ice Cream",3.7,520ca7db-e317-48b2-9d5b-87fc64e87f0a
+816,Vijay Nagar,Ice Balls & Slice Square,"Sandwich, Fast Food, Ice Cream",3.7,255b1148-9b89-44b0-8561-d7f294c6ed15
+817,Bhawar Kuan,Nema Gajak Kulfi,Desserts,3.3,47a18c06-c496-40c7-86d0-ac400d8fbaad
+818,Vijay Nagar,Baskin Robbins,"Ice Cream, Desserts, Beverages",3.2,9391f2eb-9e46-4756-8adc-17b06f11ba9d
+819,"Sapna Sangeeta Mall, Sapna Sangeeta",Keventers,"Beverages, Desserts, Ice Cream",3.5,44e0acf7-bd85-4a91-9783-e33b43b96ca9
+820,Old Palasia,Nema Kulfi Faluda,"Fast Food, Desserts, Beverages",3.5,cf95af05-5832-41f6-a0ff-2f412897fded
+821,Geeta Bhavan,Baskin Robbins,"Ice Cream, Desserts, Beverages",3.6,de165b2a-87f9-45ea-8cb0-10f5893bce61
+822,Airport Road,Food Land Ice Cream and Cafe,"Ice Cream, Fast Food",3.5,443b2611-6427-449d-beac-bbd5388d7357
+823,Old Palasia,Amul Store,"Desserts, Ice Cream",3.4,46263ca3-cc34-4d5b-bb0c-c15689831193
+825,Chhavani,Sheetal Gazak & Kulfi,"Ice Cream, Desserts",3.6,7f7719ee-6a80-4ce6-a303-ff25ae5e505a
+826,Sapna Sangeeta,Baskin Robbins,"Ice Cream, Desserts, Beverages",3.1,409893de-4449-41bd-9a7c-673deb7cb749
+827,Annapurna Road,Cakes N' Craft,"Bakery, Desserts",3.5,3d4fd8bf-dd24-44fa-a37c-b488fdcffa0e
+828,RNT Marg,Indore Kulfi House,"Street Food, Desserts",3.6,eabb3671-d3c8-4b1b-bcf1-a06db4055d09
+829,Ranjeet Hanuman,Top 'N' Town,"Desserts, Ice Cream, Beverages",3.5,fccf2328-2117-4d4f-ab58-98a24797096e
+830,"56 Dukan, New Palasia",The Belgian Waffle Co.,"Desserts, Beverages",3.5,697240a5-b4bf-4cf2-aac1-96fb9fd4d8c3
+831,Vijay Nagar,Sheetal Gazak & Kulfi,"Ice Cream, Desserts",3.6,92b7bed5-2e0a-4d16-87a2-f629165f0543
+832,Old Palasia,Waff Up! by Foobae,Desserts,3.5,2307d117-e3d2-4261-8e0b-26f6e7a43fe5
+833,Bhawar Kuan,Cakes N' Craft,"Bakery, Desserts",3.3,8bf89105-aa53-44e0-a7ec-57a16e0cc306
+834,Old Palasia,Nice Natural Ice Cream,"Desserts, Fast Food, Beverages",3.2,7eaa95ea-43b8-4cc8-9f55-8107820bb999
+835,Khajrana,Nema Kulfi,"Fast Food, Desserts, Beverages",3.3,c70a0a13-1b8c-4247-adc3-0b8a4eaff440
+836,Vijay Nagar,Top 'N' Town,"Ice Cream, Desserts",3.4,cf0f7a00-14a4-486f-b6e4-e65c6de0a336
+837,Vijay Nagar,Nema Kulfi & Gajak,"Fast Food, Desserts, Beverages",3.5,bcb25361-f84b-436b-9a5f-47eaa598e38e
+838,Old Palasia,Nema Malwi Mithas,"Fast Food, Desserts, Beverages",3.2,3413248d-00b2-419a-ade2-1a43e02780c6
+839,Kothari Market,Mhow Kulfi,"Ice Cream, Street Food",3.4,faa57105-6bcd-4c76-908c-65a8397cfd19
+840,By Pass Road (North),Top N Town,Ice Cream,3.4,f412d4d4-349e-4228-8e48-3eef5df59532
+841,"56 Dukan, New Palasia",Kwality Wall's Humty Dumty,"Ice Cream, Beverages",3.3,43e5785b-1b32-4522-a717-7f39b608a835
+843,Sarafa Bazaar,Nema Malwi Mithas,"Fast Food, Desserts, Beverages",3.5,3e235acb-c459-4de6-b638-bd7dff9dbbdd
+844,"C21 Mall, Vijay Nagar",Baskin Robbins,"Ice Cream, Desserts, Beverages",3.5,07279a42-9235-4397-b326-4ccd4148f6de
+845,Sarafa Bazaar,Agrawal Ice Cream,"Ice Cream, Desserts",3.6,67b60866-a55e-4808-a226-54c5d13a2c2d
+846,Khajrana,Top 'N' Town,"Ice Cream, Desserts",3.4,0842f806-e43d-4cd8-b518-cab0e82254b3
+847,Vijay Nagar,Top 'N' Town,"Ice Cream, Desserts",2.9,7d085960-626a-4e3d-80b0-2164eecb7923
+848,Jail Road,Amul Shoppie,"Ice Cream, Fast Food",3.4,6f0f4a94-1919-4ab4-8ee3-8f6d33677541
+850,Press Complex,Top 'N' Town,"Ice Cream, Desserts",2.8,c18bc205-d83c-4403-97b6-06cc4f04e041
+851,Vijay Nagar,D'Chocolatist,Desserts,3.1,443ec12f-57b2-4456-952e-19b0c0afbec2
+853,Airport Road,Amul Parlour,"Ice Cream, Fast Food",3.3,cf85954a-5252-43fd-8aab-7f977e5f36f5
+854,Airport Road,Shree Jain Kulfi and  ?,Ice Cream,2.9,7ade6896-8574-4394-87c8-2a3be3ce68cd
+855,Khajrana,Cakes N Craft,"Bakery, Desserts",2.9,6b2810b9-b2a5-4148-912d-22ddbb28d50a
+856,Sudama Nagar,Live Tawa Icecream,"Ice Cream, Beverages",3.2,13af8c59-f9e8-409b-8919-3c3144f2bfed
+858,Sudama Nagar,Shri Anand Ice Cream,"Ice Cream, Beverages",2.9,a0aa88f1-728f-43c1-a0a6-76c44a6c5308
+859,Malharganj,Top n Town- CGS Ice Cream Delight,Ice Cream,3.1,d8ecebff-5f93-4df7-9d9b-ddc1155f96f0
+860,Vijay Nagar,Waff Up!,Desserts,3.3,9474bf01-b31c-47a0-8e2f-ba92b535ae7a
+861,Khajrana,Amul Waabasta Scoops,Ice Cream,3.2,3c0e25eb-f37a-4ddc-9c46-6a3be8dcbc5b
+862,By Pass Road (North),Nema Kulfi Faluda,"Fast Food, Desserts, Beverages",3.2,b380752b-c651-46aa-961b-6c339a711abd
+863,Old Palasia,Baskin Robbins,"Ice Cream, Desserts, Beverages",3,039a8c3a-1054-475f-858c-714996bf0b16
+864,Airport Road,Monica Galaxy,"Ice Cream, Desserts",3.1,be402581-76f4-442c-9d7d-6a1d1c826a88
+865,Bhawar Kuan,Nema Kulfi Faluda,Desserts,3.1,fb10cf88-4bef-403f-9df7-04296fbeb83f
+867,Sudama Nagar,Ice Cream Online,Ice Cream,3,9cfd2a92-2100-42c4-a160-40070705732d
+868,Vijay Nagar,Ice Cream Hub,"Ice Cream, Chinese",3,da1d3be6-9b2d-4464-99fb-76311611f801
+869,South Tukoganj,Waffled,"Ice Cream, Desserts",3,e6352721-635a-4f32-b2f0-3011c004079a
+870,Vijay Nagar,ifruit Delight,"Desserts, Ice Cream",3,f0bd05fd-57df-42d6-956a-a400f34abcda
+871,Old Palasia,Live Ice Cream,Ice Cream,3.1,513005ae-9e22-4598-bacf-0465ca50c9e3
+872,Sudama Nagar,Iceberg Cafe & Bharkadevi Ice Cream,Ice Cream,3.1,4ad8fa28-e311-4682-ad1a-0e684e36eae0
+883,Vijay Nagar,Perfect Bakery,"Bakery, Fast Food",3.9,c83f3da6-c358-48a7-bd4c-1c7e40935a70
+888,Bhawar Kuan,Valentine Cafe & Bakery,"Fast Food, Bakery",4,b4f78afa-72f7-4567-a86d-90c0cfca4363
+889,Sapna Sangeeta,Bakers Lounge,"Bakery, Fast Food",3.8,b0190ad5-bc13-4096-95c3-a575408d9c6d
+893,"Hotel Crown Palace, South Tukoganj",Bake Well Bakery Shop,"Bakery, Fast Food",3.6,a26bad6e-333a-47bb-aa91-afeea2014b71
+894,New Palasia,Nafees Bakers,"Bakery, Fast Food",3.9,8c546833-b786-48bb-9953-6dbbfcb325e9
+895,Old Palasia,Cake Me Away,"Bakery, Fast Food",3.5,5f4efbce-81f7-4cf6-bd30-c692c4abaeaa
+896,Ranjeet Hanuman,Jain's Trupti Bakes N Beans,"Bakery, Fast Food, Chinese",3.6,61bec624-7204-484d-b63b-e8a1738ac82a
+897,Bombay Bazaar,Nafees Bakery,"Bakery, Fast Food",3.4,f9942cad-cc62-4828-a235-b0224e0e618a
+898,Old Palasia,Cakes 365,"Bakery, Fast Food",3.6,78960b82-047a-4de0-8859-c84858184307
+899,Vijay Nagar,The RJ's Bakery & Cake Shop,Bakery,3.1,1905ffc6-fd52-4fea-a254-f1e4ae034965
+900,Vijay Nagar,The RJ's Everfresh,Bakery,3.3,b65c3bca-e0f3-46ca-bbb6-e413af24248b
+901,New Palasia,The Baking Room,"Bakery, Desserts",3.8,31e37178-9d78-4ea5-a048-0ad8d41af23a
+902,HIG-LIG,Baked Inn,"Bakery, Cafe",3.5,27823b1f-692f-4bd0-b0f3-64b025afac45
+903,Bhawar Kuan,Granny's Restaurant,"North Indian, Chinese, Bakery",3.5,8f135035-e080-4dc9-bb15-c7af449f88ec
+904,Sapna Sangeeta,Peace of Cake,"Bakery, Desserts",3.9,0e10c84e-dcf6-44a7-b90b-c5014c1392c7
+905,Old Palasia,Nafees Cakes & Grills,"Fast Food, Bakery",4,ee81079f-8f00-4fda-9065-7309b2d23077
+907,HIG-LIG,Dev's Bakery,"Bakery, Street Food",3,cddc4463-980f-4eeb-ac78-4f40c5b4e57d
+908,New Palasia,Khurana's,"Bakery, Fast Food",3.3,d8e769df-af64-46a6-8e3b-6dad51350727
+909,Sapna Sangeeta,Fantasy,"Italian, Fast Food",3,112c6074-5241-4a97-8525-38432a5ee832
+910,Vijay Nagar,24 Hours Bakery Shop,"Bakery, Desserts",3.7,eaed519a-c0f8-4757-adeb-1a2b584ff662
+911,YN Road,Baker's Lounge,"Bakery, Fast Food",3,27d56fd1-868d-430d-84c5-9828fc3fd84a
+912,Navlakha,Cake's Valley,"Bakery, Fast Food",3.5,7910110b-db91-41be-8c85-05d9f8babe54
+913,Geeta Bhavan,Dev's Bakery,Bakery,3.3,b7e6b0d6-08b4-4c9d-96ab-c0e4b1c399dc
+914,Khajrana,Dev's Bakery,"Bakery, Fast Food",3.4,946accb7-43f6-4967-ac27-d5850627160f
+917,"Hotel Amar Vilas, Press Complex",Occasion - Hotel Amar Vilas,Bakery,3.4,d890acf1-a320-4d05-ba43-c9fa768356bf
+918,New Palasia,420 Bites,"Bakery, Desserts, Fast Food, South Indian, Chinese, North Indian",3.4,b64c6e5f-8cde-44f7-ac8b-839e108b3a4b
+919,Sudama Nagar,Cake Boutique,"Bakery, Desserts",3.3,74afb2eb-8ac2-4762-a9d1-869df14e63e8
+920,Bhawar Kuan,Dev's Bakery,"Bakery, Fast Food",3.2,4660ac6c-f4f0-492f-8ab4-b2005f54c394
+921,Annapurna Road,Mini Me Bakers,Bakery,3.2,86a63890-b581-4123-9c6b-b64818c8003b
+922,Khajrana,Bakery Bites,Bakery,3.3,a73c7b0b-8b04-404c-92d0-6f7bf7e08379
+923,Old Palasia,Cake Makers,"Bakery, Desserts",3.2,e021dec6-7572-42f8-8756-5978344a7903
+924,By Pass Road (North),Kerala Sweets Bakery,"Bakery, Fast Food",3.8,4f12e9af-b0a5-4568-9c3f-1079d3676cd5
+925,Khajrana,Sweet Little Bakery,Desserts,3.4,ff346f04-ddef-4552-a8aa-d632c3983a04
+927,Sapna Sangeeta,Little Chicago,"Bakery, Desserts",3.5,e57057ec-887b-4d8a-854a-c408edd6bb9f
+928,Manik Bagh Road,Puff N Plum Bakery,"Bakery, Street Food",3.1,e753cbe5-41a6-495f-8589-ed533dcf483d
+929,Manik Bagh Road,Ajanta Bakery,"Bakery, Fast Food",3.2,e8817db1-fb7a-41a6-b5a5-a8714ba051c5
+930,Sudama Nagar,Monica Bakers & Fast Food,"Bakery, Fast Food",3.2,e9bb60ca-e008-440c-9838-70ce8609810b
+931,Khajrana,Cake Central By Cakesmith's Alley,"Bakery, Fast Food",3.1,d8a09613-3b48-4714-8940-03723862d27f
+932,HIG-LIG,Red Maple Bakery,Bakery,3.3,4223dacf-4701-4db4-bae8-f89e7e48e87e
+933,Old Palasia,Maan Bakery,"Bakery, Fast Food",3.3,e8bfdd39-f6df-4b7b-b7c2-9e720499019d
+934,Khajrana,Suffa Restaurant,"North Indian, Bakery",3.1,b3e17d60-8ff1-4736-b9ab-a0f7d596861d
+936,Manik Bagh Road,Bittu's Bakes,"Bakery, Desserts",3.2,36081a90-e423-4201-a86c-4a4113985517
+937,MR 10 Road,Pastry Pop Bakers,Bakery,3,1c200f5a-8db2-43bc-b0e0-091d23b6db8d
+938,Vijay Nagar,King of Cakes,"Bakery, Desserts",3.2,aabfea45-6dd5-47af-b0f6-d5e8955af72f
+939,Khajrana,Cakes 365,"Bakery, Fast Food",3.3,13aecf4a-8610-451a-a18c-a6846ea95525
+941,Vijay Nagar,Red Maple Bakery,"Bakery, Desserts",2.9,5955dd62-4914-4754-96da-0047938b097f
+942,YN Road,Pastry Parlor,"Bakery, Fast Food",2.9,db8da919-2dfd-40b1-a4ae-4e210206adfc
+943,By Pass Road (North),Cakes 365,"Bakery, Fast Food",3.2,9e15d191-773e-47d9-bae1-66e2a635ee6d
+944,Vijay Nagar,Hot And chill,"Bakery, Fast Food",3,6164f10e-b9b6-4a53-83a4-269a057760cf
+945,Old Palasia,Jain's Trupti Bakes N Beans,"Bakery, Fast Food, Chinese",3.2,95a1e59c-767f-495f-9d12-ed90301aa1a2
+946,Sapna Sangeeta,My Choice Cafe & Bakery,"Bakery, Fast Food",3.3,f21813be-b992-481c-b1fc-25525fb663fe
+947,Bhawar Kuan,Happy Oven Bakery,Bakery,3.3,18658adc-de23-4d21-9833-b6968ff3debc
+948,By Pass Road (North),Papa Bakery,Bakery,3.1,7b029161-79c8-4207-bb51-dca42b82f535
+949,Old Palasia,Eat A Treat,Bakery,3.3,833f3326-6471-4d20-be8b-7de82f2a5024
+950,Manik Bagh Road,CM9 Bakery,"Bakery, Desserts",3.2,9343bb59-0dc4-4095-bf1a-89eac7466a72
+951,"Hotel Wow, Vijay Nagar",Cake Me Up - Hotel WOW,Bakery,3.3,05c44b1e-19ed-4782-bcb9-11f4fc70010e
+953,New Palasia,Suffa Restaurant,"North Indian, Bakery",2.9,f0915d8a-f6be-48e0-941d-93b06c1c914e
+954,HIG-LIG,Shree Krishna Cakes,"Bakery, Street Food",3,4a6c4036-7488-4a34-b66f-368dd30a1762
+955,HIG-LIG,KND Bakery,"Bakery, Chinese",3.2,f9839ccb-aaf0-4b72-bb6c-2377f78e6569
+956,Annapurna Road,"Whisk ""N"" Spatula","Cafe, Bakery",2.9,307a8c00-090a-4791-b083-e0aec76f06b0
+957,Ranjeet Hanuman,The Jain's Cakery,Bakery,3,c46d1c02-3aa8-4c34-86f3-40a015bd8e70
+958,"Devi Ahilya Bai Holkar Airport, Airport Road",Baker Street,"Bakery, Tea, Coffee",3,6a555a2c-284a-43ab-adcb-f220c6882879
+960,Ranjeet Hanuman,Shrinath,Bakery,3,f6bfc261-e47e-4d92-ad2b-d19c7691369b
+961,"Devi Ahilya Bai Holkar Airport, Airport Road",Baker Street,"Bakery, Tea, Coffee",2.9,e31d9e8f-b759-4863-8b40-49fe63e5e077
+974,Old Palasia,Mishri Sweets,Mithai,4,0ed7dbe5-44f7-4bdc-818f-e148339f890b
+975,Sapna Sangeeta,Gujrat Sweets,"Mithai, Street Food",3.8,b6121342-7a51-4e0b-a21d-a612e0a95831
+976,Sapna Sangeeta,Agrawal Sweets,Mithai,3.8,686b7b43-02c6-4208-a279-baaf527f6a4e
+977,Sarafa Bazaar,Ratan Sev Bhandar,"Mithai, Bakery, Fast Food",4.2,eba326ed-1456-4a6a-8f7f-8190c8529449
+979,Manik Bagh Road,Jain Mithai Bhandar,"Mithai, Street Food",3.5,932a6735-05ea-45cb-98fb-8bb154d0cb49
+980,YN Road,Suresh Namkeen and Sweets,"Mithai, Street Food",4.1,0b8af593-c275-4c3b-9f87-df8aacc09e8c
+981,Rau,Vikas Sweets & Restaurant,"North Indian, Fast Food, Street Food, Mithai",3.9,18830d98-1238-4c25-8b21-43c070c1d875
+982,Sudama Nagar,Annapurna Sweet Centre,"Mithai, Bakery",3.7,c90346ff-6daa-4c16-9435-258a7d39580d
+983,MR 10 Road,Shri Sweets,Mithai,3.5,f541d4c9-cd61-4831-8cbc-946eab5898c0
+984,Sarafa Bazaar,Nagori Sweets,Mithai,4.1,f47a0267-2d13-470c-97c0-627b69165e18
+985,Old Palasia,Jain Mithai Bhandar,"Mithai, Fast Food, Street Food",3.7,5895d0b2-7a4a-48f6-b049-6c2c7c79c396
+986,RNT Marg,Shri Agrawal Sweets,Mithai,3.8,183d7ad9-b082-4cda-aedf-1d4ebc72c01f
+987,Old Palasia,Ratan Sev Bhandar,"Mithai, Bakery, Fast Food",4,ee8da193-f675-4b86-beaa-577dc14ee815
+990,"56 Dukan, New Palasia",Agrawal Sweets,Mithai,4,19964e60-13a4-45a1-b591-2d3d4ba813b3
+991,Vijay Nagar,Mishri Sweets,Mithai,3.7,fe3244dd-4991-4dd5-aa58-ad7778f5c125
+993,Sudama Nagar,Madhuram Sweets,"Mithai, North Indian",3.1,317fab1a-5fdb-4111-bdb0-88b579b0751f
+994,Rajwada,Jain Shree Sweets,Mithai,3.6,80277b1d-b973-4a8f-9d80-cc0b82fd978b
+995,Rau,Vikas Sweets And Fast Food,"Fast Food, Mithai",3.6,8468cf24-922d-4c66-a90a-dbab1d49fb0a
+996,Vijay Nagar,Aajibai Sweets,"Mithai, Street Food, Chinese, South Indian",3.5,4675502f-c641-4bd1-98e8-0c0a5509ebb3
+997,YN Road,Hello Halwai Namkeen,"Mithai, Street Food",3.4,76a9c84b-a45e-43e1-9584-5215ce8b546d
+998,Old Palasia,Shri Agrawal Sweets,Mithai,3.8,22192f7d-5d62-4f0e-9086-15c985e6af79
+999,Old Palasia,Marothiya Pedewala,Mithai,3.8,a7c7ad14-ebf8-4ed8-bba9-f86ec4f505aa
+1000,Sapna Sangeeta,New Agrawal Sweets,"Mithai, Street Food",3.8,e6345a4d-0282-48ab-88a6-1674a2d2f6d9
+1002,Vijay Nagar,Madhuram Sweets,Mithai,3.5,efa5b371-6fd9-4591-a733-2c1c186f6ffe
+1003,MR 10 Road,Shankar Namkeen,"Mithai, Fast Food",3.8,85bc8368-1e32-4c68-bbda-74366d10d689
+1005,Sarafa Bazaar,Shree Bhairavnath Misthan Bhandar,Mithai,3.8,c117a81b-8415-4647-9aaf-f705861be931
+1006,Annapurna Road,Jain Shree Sweets,Mithai,3.5,b340057b-ea96-4486-a918-4e42b90c35ba
+1008,Rajwada,Marothiya Pedewala,Mithai,3.5,959101b0-f2ed-4520-b277-5040a2ffc866
+1009,Sudama Nagar,Shri Ram Sweets and Namkeen,Mithai,3.5,4b412d50-cfd3-4e9e-b9e9-6a5554aea258
+1010,Jail Road,Naman Namkeen Sweets and Bakery,"Mithai, Street Food",3.6,443e5ad0-8055-43d2-859e-486b91a8fed4
+1011,Khajrana,JMB - Jain Mithai Bhandar,"Mithai, Street Food",3.4,0e06b100-830d-4a99-b184-373f54d7a10d
+1012,Annapurna Road,Shree Nath,"Mithai, Fast Food",3.4,3392d89c-7946-4ae7-8beb-b8304ddf2466
+1013,Navlakha,Maheshwari Sweets,Mithai,3.7,7fe807d8-550c-443a-ba09-6a0108bb304f
+1014,New Palasia,Shree Gangour Sweets,"Mithai, Street Food",3.3,d55a86f8-9e9b-4beb-aac4-e1dab9622e83
+1015,Vijay Nagar,Shree Sundaram Sweet,"South Indian, Fast Food, Chinese, Mithai",3.4,ba95be67-2017-4d03-9ed0-4c99da2735e4
+1018,Old Palasia,New Mahaveer Dairy,Mithai,3.6,16c3be2b-060a-4520-899f-2a5b13a297e2
+1019,Airport Road,Marothiya Pedewala,Mithai,3.5,48bcd747-92b4-4459-ad69-8d9052f8aa48
+1020,Sapna Sangeeta,Shree Arti Sweets,"Mithai, Fast Food",3.4,5ca67fd7-14df-478f-9cad-5465fb9d3282
+1021,Sapna Sangeeta,Shree Meenakshi Sweets,Mithai,3.4,75c55611-b292-4f9c-ac9b-be23f2ae3afd
+1022,Ranjeet Hanuman,Marothiya Pedewala,Mithai,3.3,cc7d13e2-57e9-449a-a73d-dee94f415262
+1023,Rajwada,Bhagat Singh Chandan Singh Dudh Walo Ki Mithaiya,Mithai,3.5,bfda6d35-e249-456e-ac5b-428aa156e89a
+1024,Vijay Nagar,Shree Sweets,"Mithai, Fast Food",3.2,5bde9ed5-14dd-45c3-83ef-234f107e438d
+1025,HIG-LIG,Tasty Center,Mithai,3.4,41db1479-0680-4726-a785-01498746d137
+1027,Airport Road,Ladu Maharaj,Mithai,3.3,da4f4c36-e798-4ce5-b744-b380eda16a21
+1029,Annapurna Road,Surbhi Sweets,Mithai,3.4,917605a2-8fcc-4f8f-a6a3-6d94bd24fe51
+1030,Chhavani,Shree Mathurawala Sweets,Mithai,3.2,bcb91f03-95ed-45b8-9828-a83c7ccaaf34
+1031,"56 Dukan, New Palasia",Jmb Jain Sweets,"Mithai, Chinese, South Indian, Street Food",3.2,c1b27a94-e557-4818-b8c9-6790e3fc6e7b
+1032,Airport Road,Satyam Sweets,Mithai,3.2,c0d123fc-95d3-4ac7-a81b-382543d3f3df
+1033,HIG-LIG,Khandelwal Sweets,Mithai,3.3,b5fcdcf2-5961-4049-a170-d07adc8d849a
+1034,Vijay Nagar,Shree Balaji Namkeen & Sweets,"Street Food, Mithai",3.2,636f8a74-a022-4be4-a8af-1c48db250aad
+1035,"56 Dukan, New Palasia",Agrawal Namkeen Center,"Mithai, Fast Food",3.3,5d36a923-ac20-4a4b-aed5-49f5682acdf0
+1036,Ranjeet Hanuman,Shri Agrawal Sweets,Mithai,3.5,432b2133-06fb-432f-964e-6ce6a03852b5
+1037,Chhavani,Mamaji Namkeen and Sweets,"Mithai, Street Food",3.1,2c1f16fd-bf1d-4371-bd18-6e3c80d4ac76
+1038,Sudama Nagar,Shree Nath Ke Namkeen,"Mithai, Ice Cream",3.1,a3bf9ce2-27e4-41f3-8850-7e3c6a869161
+1039,Bombay Bazaar,Gelda Namkeen and Sweets,"Mithai, Street Food",3,abc5bb20-72b4-4ab8-9c42-86b4ab1d7f4e
+1040,Airport Road,Mousa Sweets & Namkeens,"Mithai, Street Food",3,ceaad0c3-4f8c-43ed-a6de-0e2a87d5a707
+1041,Jail Road,Mauji Hot Food And Sweets,"Mithai, Fast Food",3.1,513a0602-083e-4b8f-8f9d-3f04b02b5769
+1042,Manik Bagh Road,Sindh Sweets,"Mithai, Street Food",3,895ae45d-09be-4b51-ae30-259fbce17e7b
+1043,Khajrana,Jai Ambe Namkeen Sweets,"Mithai, Fast Food",3.1,aa3e81ed-09c1-42a0-84ac-d7bf03be503e
+1044,Sarafa Bazaar,Kesriram Sweets,"Mithai, Fast Food",3.2,91461c3b-eb45-4137-a3c3-924c2f63d19b
+1045,Rajwada,Mahaveer Namkeen,"Mithai, Street Food",3.1,4aba08c5-dc6b-4786-bb86-09befe3f8e2c
+1046,Khajrana,Sharma Sweets and Namkeen,Mithai,3.2,0300ca45-94ec-4645-8732-fe90637166e7
+1047,Khajrana,Quality Sweets,Mithai,3.1,43f15d68-4abe-41d5-8222-4b953a577bc4
+1048,Airport Road,Nema Sandwich Point,"Mithai, Fast Food",3,d62b2a99-073e-440a-bcf9-782c6aef4cc1
+1049,HIG-LIG,Sri Agarwal Sweets And Namkeen,"Mithai, Fast Food",3,aed590cc-efe0-4f47-8fca-356c4192e316
+1050,Khajrana,Padmawati Parshawa Namkeen,"Mithai, Street Food",3.1,0e424a1f-3818-4ae3-a343-89f85d35d016
+1052,Old Palasia,Agrawal Ji Ke Namkeen,Mithai,3,562a82cf-a62d-433f-8d24-2f881a269137
+1053,Rau,Jai Shree Kalki Sweets and Restaurant,"Mithai, Street Food",3,beb26d7a-2095-4bc8-8423-d59af8a64a14
+1054,HIG-LIG,Shri Agrawal Sweets & Namkeen,Mithai,2.9,81920031-28c3-40cc-8b37-a611620f7ff2
+1055,Old Palasia,Taste of Malwa,"Mithai, Street Food",3,1d1884d1-8555-41ba-a0d8-4c28a27271c5
+1058,"Treasure Island Mall, South Tukoganj",Indore Pub Exchange,"Finger Food, North Indian, Italian, Continental",3.8,4aed46c4-efb5-4732-a4f6-7db92d03ee5f
+1072,Vijay Nagar,Lighthouse,"North Indian, Chinese",3.5,77546a5e-f2ec-4bc2-a76f-9fe498adbe8e
+1083,Fairfield By Marriott,Kava Lounge - Fairfield by Marriott,Finger Food,3.2,501de39f-410f-4404-a005-a7c45cb4ed48
+1099,Sapna Sangeeta,Masala Medley Cafe,"Cafe, North Indian",3.7,36faf327-935d-47f0-8c63-9abe7c9a864e
+1105,"Hotel Crown Palace, South Tukoganj",Cafe Bake Well,"Cafe, Chinese",3.9,896aeb5d-bf5c-49d3-bc4e-e4b4cfa5d3f4
+1106,Rau,Mugs & Beans,"North Indian, Italian, Fast Food",3.9,84310b02-f45d-448b-bac1-989620058bd4
+1109,Sapna Sangeeta,Down Town Cafe,"Cafe, Fast Food, North Indian",3.9,10688f2b-687a-4882-a069-3c933901d4b2
+1113,Papaya Tree Hotel,Effe Cafe,Cafe,4,8242670f-a6a7-46b1-b8cd-691bf1639720
+1114,Old Palasia,The Nest,"Cafe, Fast Food",4,198277e2-ec15-474d-8793-cdaa998b7e10
+1115,Bhawar Kuan,Checkmate Cafe,"Cafe, Fast Food",3.7,5949044d-e23d-403c-b4ed-d73529b16c6e
+1116,Vijay Nagar,Sassy House - All Day Cafe,"Cafe, Fast Food, North Indian",3.8,89cb71ff-c0b8-4b49-af6a-9f86241b54ee
+1117,Vijay Nagar,The Story Cafe,"Cafe, Fast Food",3.4,ee250a3d-0b00-4a64-8b38-32c7dbbbcc3a
+1118,New Palasia,The Chai Bar,"Cafe, Fast Food",3.9,b174e93b-bdfe-4676-beec-ed373a87f4ae
+1121,New Palasia,La Pink Cafe,"Cafe, North Indian, Fast Food, South Indian",3.3,60d2c24a-a0be-426f-87c4-5f3c1550b380
+1122,"Hotel Best Western Plus O2, South Tukoganj",O2 Cafe 24*7,"Cafe, Fast Food",3.9,6a1644d9-7fed-446f-b1ee-d17ec8592851
+1123,Vijay Nagar,The Urban Gumti,"Cafe, Fast Food",3.5,0f8c43be-3d67-4d1a-8a01-f745760d362a
+1124,South Tukoganj,Buddy's,"Cafe, Fast Food",2.9,73858cbf-2179-4d47-8bab-7607cae96925
+1125,South Tukoganj,Manas Klassika - The Cafe,"Cafe, Fast Food, Coffee, Beverages",3.8,fe538f41-fe93-4176-ad89-d1a35a7368f5
+1126,Vijay Nagar,Cafe Chokolade,"Cafe, Fast Food, Beverages, Ice Cream",3.7,1adfbdc7-aa51-4f80-9ce4-4eab37ba9c57
+1127,Vijay Nagar,Biggies Burger 'n' More,"Cafe, Fast Food, Burger",4.1,46995c9c-cb99-4c25-8020-86b320ee624f
+1128,Vijay Nagar,Westeros,Cafe,3.8,3fb283af-3223-4816-9961-e63a0270b3a7
+1129,Vijay Nagar,Cafe XOXO,"Cafe, Chinese",3.5,046fc105-116a-49bc-b728-849b9dadf898
+1131,Sudama Nagar,Beyond Temptation,"Cafe, Beverages",3.6,61e303a7-be21-480d-b9a2-ec6cdbde0643
+1132,Sapna Sangeeta,Koffee King,"Cafe, Ice Cream",3.8,fd9430c0-7b06-4863-9045-e182c8f0bafa
+1133,Bhawar Kuan,Trap House Cafe,"Fast Food, North Indian",3.5,28c38643-435c-4f49-bf06-01920096823f
+1134,By Pass Road (North),Coco Nibs The Gourmet Cafe,Cafe,4.1,06a31d9c-afa2-46ab-9347-8b82272ff796
+1135,New Palasia,Chai Kaapi,"Cafe, Chinese, Biryani, North Indian",3.8,0002dd3a-1110-43be-b576-8abb0f12dddd
+1136,Bhawar Kuan,Voyage Cafeteria,"Cafe, Fast Food, North Indian",3.6,fd8c1093-0d3b-4025-b164-1e03ea2c2d20
+1137,Navlakha,The Obroma Cafe,"Cafe, Chinese, Fast Food",3.7,f1e920f4-a60e-4252-951f-9f73c5fec5b7
+1138,Vijay Nagar,Ovenly by Khurana's,"Cafe, Fast Food",4.1,12b6f453-7eaf-42d8-a59f-6c7056e5df68
+1139,"56 Dukan, New Palasia",Koffee King,"Cafe, Ice Cream",3.8,c9e7d743-af5a-4f01-a58e-32ccaed65acb
+1140,Geeta Bhavan,Cafe@BLU,"Cafe, Italian, Mexican",3.9,dc2fa629-7c40-4525-a498-a60d942b50cf
+1141,New Palasia,Cafe Coffee Day,"Beverages, Cafe, Sandwich, Fast Food",3.5,f55f87cd-d0a9-426d-af74-66a7f3203457
+1142,Airport Road,Jail The Cafe,"Cafe, Fast Food",3.2,52f6b7b5-a0b6-4b58-95b3-b958fd2212ba
+1143,Rajendra Nagar,Cafe Unplugged,"Cafe, Chinese",3.8,d1350b8f-f235-4a45-997f-617daf468ac3
+1145,Vijay Nagar,Nirvana - The Cafe,Cafe,4,593001cc-60c8-49bc-80d5-a98e1de4ad4b
+1146,Sudama Nagar,The Ranjeet Cafe,Cafe,3.6,9266e8f5-88e2-4083-ab2e-c0a35cc702cc
+1147,Rajendra Nagar,The Barrel Street Cafe,"Cafe, Fast Food",3.6,cb3a30e4-e9d7-49e7-9249-09d9c480e9ef
+1148,Vijay Nagar,Atrangi cafe,Cafe,3.6,5241b27f-9064-42a0-b485-c2fd503704bb
+1150,Vijay Nagar,Haveli The Bungalow Cafe,"Cafe, Chinese, Italian, Fast Food",3,3adb8554-e120-41fe-abd1-36f94a95d0f9
+1151,Khajrana,Mogambo Di Gravity,"Cafe, Fast Food, Italian, South Indian, Beverages",3.7,5275c78e-67b0-45a6-be53-2eba254248f7
+1152,Rajendra Nagar,The Vintage Book Cafe,Cafe,3.5,df355057-ed48-4fbf-bf14-9db3488d2b3c
+1153,Rajendra Nagar,LaCasa Resto Cafe,"Cafe, Italian, North Indian, Chinese",3.8,8d2bed9b-63de-411f-950c-f221ce3437a9
+1154,Vijay Nagar,Frespresso,Cafe,3.3,c0f7653b-0212-443e-bd09-c8cc8c1b52f8
+1155,Navlakha,Cafe Coffee Day,"Beverages, Cafe, Sandwich, Fast Food",3.7,f479d02c-75d5-4784-a501-efd82327b611
+1157,"BCM Heights, Vijay Nagar",Cafe Coffee Day,"Beverages, Cafe, Sandwich, Fast Food",3.8,68702615-4bbc-4c9e-9732-78ace4c1e6c9
+1158,Khajrana,Grab & Run Cafe,"Cafe, Fast Food",3.6,139752de-82a3-42ef-a4a7-5e8e55073440
+1159,Bhawar Kuan,Chai Sutta Bar,Cafe,3.7,3d168812-d31d-4150-b98c-70b1c8160b3c
+1160,Vijay Nagar,Any Time Cafe,"Cafe, Fast Food, Beverages",3.2,bb2166cf-c5a5-4df8-b941-867b9c16af81
+1162,Vijay Nagar,Chai Sutta Bar,Cafe,4,468ad913-7609-42bd-80f2-750cfd4363ed
+1163,South Tukoganj,COD - Come On Dear,Cafe,3.9,08393a86-e23b-40f7-8361-3521391d2605
+1164,Ranjeet Hanuman,Cafe Coffee Day,"Beverages, Cafe, Sandwich, Fast Food",3.7,5fba3cec-9be3-4800-8dbe-bff565edad2c
+1166,Bhawar Kuan,Jail Chai Bar,Cafe,3.5,7b69bf96-666d-420b-9d94-98903be50cb6
+1168,Vijay Nagar,Bhadaas Cafe,"Cafe, Street Food, Chinese",3.7,7bfb8401-154b-4a0d-a23b-b198423e1d76
+1169,Khajrana,"96,97 Horror Street Cafe","Cafe, Fast Food",3.5,71e63f20-a6db-404d-bfe9-9dc9ba667903
+1170,Vijay Nagar,Koffee King,Cafe,3.5,bdde7ff6-fb3e-44d5-9372-bcf2bee6f76c
+1172,Bhawar Kuan,La Pink Cafe,"Cafe, North Indian, Fast Food, South Indian",3.2,4a3e6381-db08-484d-9f71-0fe32a415d84
+1173,New Palasia,Tea Post,"Cafe, Fast Food",3.5,94ec05e9-995e-4617-95f9-d7d08ddef3c5
+1175,By Pass Road (North),Jonathan's Kitchen Cafe & Boulangerie,Cafe,3.7,dabeba50-d8d1-4247-a558-50f362732ebc
+1176,Rau,Koffee King,Cafe,3.4,9bee6faf-f15e-4b77-b20e-85d15889bc24
+1177,Sarafa Bazaar,Deja Vu Cafe,"Cafe, Fast Food",3.6,f78b3942-806d-4b03-b536-36ae8a2f2a0f
+1178,Vijay Nagar,The Riffing Cult,"Cafe, Sandwich, Fast Food",3.5,b3882fa6-8f8e-45e0-b027-b47aac85ad18
+1179,"56 Dukan, New Palasia",Chai Sutta Bar,Cafe,3.8,8d085624-7fe0-47c5-a378-c9fe1e1bca22
+1180,Bhawar Kuan,09 Street Cafe,Cafe,3.7,a55d5065-d677-4154-8a0e-0cc53419887a
+1181,Navlakha,Lotus Cafe,Cafe,3.5,e72437b2-43e4-4aba-8601-fd6235b94a6a
+1182,Khajrana,Komal 's Cake Shoppee,"Cafe, Desserts, Fast Food",3.5,315c8f20-b8bd-49bc-a6bb-c513fcee536a
+1183,Vijay Nagar,Tea Post,"Cafe, Fast Food",3.4,aea7ecb0-2557-4f9c-a7c0-ed0378d7162b
+1184,"Treasure Island Mall, South Tukoganj",Domino's Pizza,"Pizza, Fast Food",3.6,3090c9da-198c-4735-829b-3a851e57152a
+1185,"Treasure Island Mall, South Tukoganj",Yo China,"Chinese, Seafood, Thai",3.8,ab85238e-92f0-45a8-ad11-d9c59d50a5c2
+1186,"Malhar Mega Mall, Vijay Nagar",Domino's Pizza,"Pizza, Fast Food",3.5,f2e4ea54-ad75-42e5-bf2a-c99cf1c107d4
+1187,"Treasure Island Mall, South Tukoganj",Kailash Parbat,"North Indian, Street Food",3.5,e25fe0c0-60a6-4675-b0ce-8d8921d66591
+1188,Vijay Nagar,Dakaar,"Rolls, Street Food, Fast Food, Beverages, Momos",3.9,c8867693-8be2-4816-b306-ed80aa94ca92
+1189,RNT Marg,McDonald's,"Burger, Fast Food, Beverages, Cafe, Desserts",3.4,dcd1defe-c3b3-47a2-ae1a-8094448d2774
+1190,"Treasure Island Mall, South Tukoganj",Chaap Junction by Wah Ji Wah,North Indian,3.6,7bcbc9bb-5827-4fd9-83d2-c186a923ddad
+1192,RNT Marg,Shahi Durbaar,"Fast Food, Beverages",3.5,5f6f4b0d-0357-42a9-95d0-618743bf6a53
+1193,"Malhar Mega Mall, Vijay Nagar",Chinese Bite,"Chinese, Fast Food",3.5,83b3db70-0abc-4462-9745-bda8f6740959
+1195,"Malhar Mega Mall, Vijay Nagar",Amigo's,"Fast Food, Continental, Beverages",3.2,d86588c1-407a-4e7d-b6a4-996d460f4881
+1197,RNT Marg,Cafe Bollywood,"Fast Food, Chinese, South Indian",2.8,3e393883-d610-4673-9e14-f84754f91630
+1198,Gangwal Bus Stand,Sarika's Rasoi,Street Food,3.1,cebf5957-9637-4ed7-ba94-32600e71394e
+1199,Vijay Nagar,Spicyka,"North Indian, Chinese, Fast Food, South Indian",3,ead9b46e-ad9a-48a7-bea6-aafcb22cb602
+1200,Sarafa Bazaar,Ajanta Sandwich,"Sandwich, Fast Food",3.7,bb9c1ca4-134e-427a-beb5-77faa0969792
+1203,Sarafa Bazaar,Prakash Kulfi And Faluda,"Desserts, Ice Cream",3.7,546b1802-6413-4028-bbd3-06bf807a359d
+1205,Sarafa Bazaar,Momos & Rolls,Momos,2.9,f4b2322f-338c-43d6-bde5-0d88c9449386
+1207,Sarafa Bazaar,Agra Chaat,Street Food,3.3,0fab7e2c-b304-41f8-b746-febc112c5af0
+1210,New Palasia,Cafe 8 o'Clock,"Fast Food, Sandwich",3.1,0ffca5ea-8f5c-4c4c-b837-ca6016c4355f
+1212,New Palasia,Sanjay Egg Centre,Street Food,3.1,5c29b8e3-3561-44ec-90a1-517f3b12f4b0
+1231,"Sayaji Hotel, Vijay Nagar",Go Bananas - Sayaji Hotel,"Italian, Mexican",4.1,3424f623-e5f3-4d47-9d0f-962b79afab8e
+1233,The Sensation Hotel - Rajendra Nagar,Mad-eira - The Sensation Hotel,"North Indian, Chinese",3.6,324093dc-2f1e-4003-a3e0-937b6630dc56
+1239,Khajrana,Ozone Wine & Dine,"North Indian, Continental, Fast Food",3.4,a609f851-e862-4747-8838-b7cbcff06780
+1242,Vijay Nagar,Mama Loca,"Continental, Italian",4.1,34e0e6fb-d4f5-43f9-b6a0-f3628b6d4ed4
+1246,Rajendra Nagar,Robusta Cafe,North Indian,3.7,ca93a50b-835c-4cd7-9c96-87610a4deb48
+1247,By Pass Road (North),Cafe Blue Turtle,"Cafe, Italian, Continental, Beverages",3.7,9553f8bd-201f-4416-8861-0d1dd75a4489
+1248,"Hotel Surya, South Tukoganj",Hotel Surya,"North Indian, Chinese",3.7,4ed96d20-7b02-4e0f-b300-51fcceae3bfe
+1249,Vijay Nagar,Bottom Sip Bar & Restaurant,"North Indian, Chinese, Finger Food",3.7,a58ae9f8-b575-4c35-97b1-96ac9d8c88ef
+1251,"Hotel Kanchan Tilak, South Tukoganj",The Roof,"North Indian, Chinese",3.5,c16e9f71-9bbf-4168-8c42-5d276008f6f6
+1254,South Tukoganj,Amaltas,"North Indian, Chinese",3.6,183dba46-a488-43de-bf77-25d1acaff64e
+1264,By Pass Road (North),Carobar  Indore,"North Indian, Mexican",3.7,76cfd3e5-de7c-4981-a0c7-61bd014288e4
+1265,Bhawar Kuan,A-1 VIP Bar & Restaurant,"North Indian, Chinese",3.3,694a298b-452b-440a-9417-cb4ba83a8a6d
+1269,Pride Hotel & Convention Centre,Fuel Bar,Finger Food,3.6,f6d4d6e9-6ec9-470b-aba2-0ce8a68cdf2c
+1270,Gangwal Bus Stand,Hotel Shivani,North Indian,3.2,3f6dee6f-37af-49f7-9fb5-3c97a7d97d00
+1272,Vijay Nagar,The Liquid Restro Bar - Hotel Uday Palace,"North Indian, Chinese",3.3,025e323e-ccd3-4686-a31c-85478e726d2b
+1273,YN Road,Good Luck Restaurant & Bar,Finger Food,3.2,d1fe0a34-d61b-4986-9f4a-de880b389d34
+1274,Sarwate Bus Stand,Hotel Sunder,"North Indian, Chinese",2.8,c982d4ee-2ac6-4245-8004-cfca29c14e0b
+1275,Rajendra Nagar,Tonicue The Bar,"Chinese, North Indian",3,7d9aacdc-1920-442f-bde4-09e586f16f7c
+1277,"Devi Ahilya Bai Holkar Airport, Airport Road",Clink Bar,Finger Food,2.9,a5e7007f-0e5f-45d8-ac03-a2763fd091b4
+1278,Navlakha,Hotel Surbhi Restaurant & Bar,North Indian,3.1,c83182a8-735a-4bd6-9097-dd35c5bace00
+1279,South Tukoganj,Fantasy Lounge and Bar,"North Indian, Chinese",3.1,69d5091a-4059-4912-88c1-08f89684b857
+1281,"Hotel Kanchan Tilak, South Tukoganj",Signature Bar,"North Indian, Chinese",3.2,33ef52ad-7fda-45ec-a77f-b0162d9aaf0e
+1303,Vijay Nagar,Vijayshree Sandwich,Sandwich,3.9,bb213779-3b20-4bf1-bc2d-0e759a149be2
+1305,Sapna Sangeeta,Sagar Juice Center,Beverages,3.9,48ef9e38-ff1a-4c03-8ac6-7bb718ea3fdb
+1306,Sarwate Bus Stand,Ghamandi Lassi,Beverages,4,13d6b75d-2807-4aaf-a9f2-6b722b457c7e
+1308,New Palasia,Aspi,"Beverages, Fast Food, Ice Cream",3.8,8744f5f3-bd43-4f8c-98b4-a6648a152a4e
+1309,Bhawar Kuan,Thick Shake,"Beverages, Fast Food",3.8,50dc3340-1009-4d2b-83ad-5521415dace1
+1310,Malharganj,Sagar Juice Centre,Beverages,3.5,b7e7648b-ded6-4209-a4c6-8924315fdc28
+1311,Vijay Nagar,Naturas Foodies Point,"Juices, Beverages, Salad",3.6,a995e308-7129-4d36-afab-a80a8097e899
+1312,Old Palasia,Sagar Juice Center,Beverages,3.6,4482f041-769d-4eb1-80b9-3a0edb0040b8
+1313,Old Palasia,Anand Shree Fruit Bonanza & Cafe,"Fast Food, Chinese, Ice Cream, Beverages",3.6,7bfd4e3a-67c5-4d35-aeda-426faafc6e2b
+1315,Annapurna Road,The London Shakes & Cafe,"Beverages, Fast Food",3.4,28dd4156-5ca0-4920-adc3-27908ae85aef
+1316,New Palasia,Anand Shree Fruit Juice Centre,Beverages,3.4,0a01cc97-dab5-47e8-91b8-04d97bea9d40
+1320,Vijay Nagar,The London Shakes & Cafe,"Beverages, Fast Food",3.4,17142272-6087-4fe2-a2a9-6fcb52b84d0e
+1321,New Palasia,Shree Goyal Juice Center,Beverages,3.6,6a29a88b-35c8-40ee-82a9-62b976e31ecf
+1322,Sarafa Bazaar,Navin Coconut Crush,Beverages,3.3,d13afe86-4167-405e-88ec-807be0bc9584
+1323,Vijay Nagar,Cool Down,"Fast Food, Beverages",2.8,d5e17b83-b80e-4535-bde3-d2a2d460994f
+1324,Sudama Nagar,Gaushtham Lassiwala Cafe,"Beverages, North Indian",3.3,c68b2e0c-3aff-4489-85d7-9c0fea21142c
+1326,"56 Dukan, New Palasia",The London Shakes,"Beverages, Fast Food",2.9,a7af67c9-90c3-4725-b93b-656c118aa8da
+1329,Chhavani,Raj Sandwich Point,"Fast Food, Beverages",3.3,6d677c79-b6f6-459c-8c57-7f8991f4b46d
+1333,New Palasia,Trupti Juice A Chat Chawpati,"Street Food, Beverages",3.2,a193e2af-1586-4abd-92c1-6507392b0fd1
+1334,Vijay Nagar,Jay Mahakal Juice,"Juices, Desserts",2.8,0b6868a6-3598-4282-8054-805aa9b3c98e
+1335,YN Road,Sai Sandwich and Juice Centre,"Juices, Fast Food, Beverages",3.2,b48afc68-0420-4f8c-a0ec-8210af060a24
+1336,Bombay Bazaar,Sagar Juice,Beverages,2.9,1593be73-2b4e-4fbe-a870-64cc66f40b52
+1337,Vijay Nagar,Cafe Coffee Shot,"Fast Food, Chinese, Italian, Beverages",3,82cd2b24-d9f1-4c0d-8173-9489c27d4103
+1339,Bhawar Kuan,Punjabi Dhaba,North Indian,3.7,31658e42-ef1f-4e18-8cda-b5883319cb09
+1340,Bhawar Kuan,Mr. Chicken,"North Indian, Chinese",3.5,f61ecb92-1efd-4caf-8b29-4c6af90b5af7
+1341,Rau,Mama Ji Ka Dhaba,North Indian,3.7,e28ab71f-8526-4d22-900e-b5b6bbcfff84
+1342,Bhawar Kuan,Kesarlal Restaurant,"North Indian, Chinese, Kebab",3.1,489b97d9-ffde-497d-a4ef-7abdde90f7a1
+1343,Bhawar Kuan,Chachaji Makhan Wala Dhabha,"North Indian, Chinese",3.3,7f01b8bf-ab42-43a8-a8f9-90e4d143144e
+1345,Vijay Nagar,Nanaksar,North Indian,3.6,3d86b4c9-cdc4-4be6-8623-58389f2603a3
+1346,Bhawar Kuan,Kelu Ka Dhaba,North Indian,3.5,e1d04562-87af-4752-85b2-c5d94ed952bf
+1347,By Pass Road (North),Devendra Da Dhaba,"North Indian, Mughlai, Chinese",3,d12fc370-fbe0-45f2-bcab-dd500d7c7c96
+1348,Bhawar Kuan,Kelu Da Dhaba,North Indian,3.5,67eda83e-5018-4e65-922d-7a93bd52f268
+1350,Rajendra Nagar,Shree Hari Om Dhaba Famous,Gujarati,3.4,a51e3a55-819d-45bd-bb7d-9e6068e87d01
+1351,Rau,Dhabha Tari Seth Ka,"North Indian, Mughlai",3.2,ef8ecffd-2d0b-4a82-b1f8-b00261ee2ea8
+1352,MR 10 Road,Aman Punjabi Dhaba,"North Indian, Chinese",3,0d597211-22f3-41ba-b90b-a60b17031905
+1353,Bhawar Kuan,Arora Ji Da Dhaba,North Indian,2.8,a7137fb5-6775-4eee-aafe-c20f99401a7a
+1354,Bhawar Kuan,Kaka Ki Mehfil Mitran Da Dhaba,"North Indian, South Indian, Chinese",3.1,84751f2d-89d9-4ded-84af-f438f832b45e
+1355,Bhawar Kuan,NPD- New Punjabi Dhaba,North Indian,3.2,00222387-05bd-428e-a90d-a6e69babf915
+1356,Bhawar Kuan,Shiv Shakti Dhaba,North Indian,2.9,902f9ae2-a746-4639-a310-28bf7fe6896f
+1357,RNT Marg,Bhartiya Bhojnalay,North Indian,3.8,a1daef8d-12ff-4bce-8090-c62d184c0c56
+1358,Bhawar Kuan,Maa Anusuiyaa Bhojanalaya,North Indian,4,94d9fb85-cc75-477b-8938-fa5beb5c2224
+1359,Sarwate Bus Stand,Shreeleela Bhojnalaya,North Indian,3.3,f6a187e4-4b6f-4547-bc0e-e24cde3cccc0
+1360,Sarwate Bus Stand,Shreeleela Bhojnalaya,North Indian,2.9,35f6e67b-cd63-488c-8ba5-634dc86a5a31
+1361,Jail Road,Vaibhavi Bhojanalaya,North Indian,3.8,7bc73a2d-49aa-4bd0-a700-8d7b43756727
+1362,Gangwal Bus Stand,Shree Ji Restaurant,North Indian,3.4,36adb81c-9774-4267-9772-8c9eb061ff2a
+1363,Sarwate Bus Stand,Shree Leela Bhojanalya,North Indian,3.5,6e2b79e1-daf7-4731-8636-311768ea53d7
+1364,Sarwate Bus Stand,Jain Shree Puri Bhandar,Street Food,3.6,e826c155-9c52-4db3-855a-074eab53d51a
+1365,Sarwate Bus Stand,Jain Shree Bhojnalay,North Indian,3.3,b6ffed09-2e34-41af-8cdb-e58dd67c91be
+1366,Vijay Nagar,Karnawat Bhojnalay,North Indian,3.5,f9429bd3-e848-448b-9f48-1ef992a1382c
+1367,RNT Marg,Siddhivinayak Bhojnalaya,North Indian,3.4,5dd5c815-30d6-4599-8ea3-9a8d7639c8f1
+1368,Bhawar Kuan,Fursat Mess,North Indian,3.1,b73d3e4d-ee7a-4d2f-99cc-814a2643f0a6
+1369,HIG-LIG,Mishra JIi Ka Bhojnalaya,North Indian,3.3,669fc79f-23f0-44e8-a5c5-9e871cca5bb1
+1370,Bhawar Kuan,Rajasthani Bhojanalaya,Rajasthani,2.9,80967dfb-4aa2-4736-a3a4-f5ebb4e720fe
+1371,Airport Road,Shree Krishna Bhojanalaya,North Indian,2.9,58c579f9-06d0-439b-ae3d-0988ed3c92cb
+1372,Vijay Nagar,Arti Bhojnalay,North Indian,2.9,44c8789d-a718-4bda-9776-f535fed2ba42
+1373,HIG-LIG,Jai Mahakal Bhojnalaya,North Indian,3,2b240471-0f2b-4f9c-bd6a-d6dfab17892d
+1374,New Palasia,Shri Kripa Bhojnalaya,North Indian,3,df73286f-2920-4f89-b3f3-7ac3e3cd1000
+1376,Vijay Nagar,Tummy Truck,"North Indian, Chinese",3.5,62f80525-35ec-40c7-910e-19823c03aaab
+1377,Vijay Nagar,G3 Royal Omelette,Fast Food,4,e2c72b72-8d7c-430b-8ed3-4f2457e4eef8
+1378,Khajrana,Tahoora Chickens,"North Indian, Mughlai",3.3,08033852-cef0-47f8-9e23-304e6e2a353f
+1380,By Pass Road (North),Karnawat Pan Bhojan,Paan,3.2,0f4367a1-29ef-4d27-8769-e9d260335fca
+1386,Bhawar Kuan,Santushti Mess,North Indian,3,2232c532-335f-4764-a411-f988dcfceffc
+1482,Old Palasia,iFoodLounge,"North Indian, South Indian, Chinese, Fast Food, Street Food",3.9,73899823-fa79-443f-ae9a-dac5bc32ebaf
+1579,New Palasia,The Eyry,"Cafe, Mexican, Italian, North Indian",4.1,08fef0bc-fdfb-4920-a4c3-93555573ca7b
+1617,Vijay Nagar,Marbella Cafebar,"Continental, Asian, Italian",3.4,46c7bcca-d075-43d2-885f-abb1cd4c1e47
+1772,Vijay Nagar,McDonald's,"Burger, Fast Food, Beverages, Cafe, Desserts",4,aa37dee6-58f5-4758-af97-eccd3ca91be3
+1802,Vijay Nagar,American Bawarchi,"Cafe, Healthy Food, North Indian, Fast Food, Beverages, Wraps, Coffee, Pizza",3.7,332cd173-8471-4b4d-a741-1657e0aa9682
+1814,Vijay Nagar,McDonald's,"Burger, Fast Food, Beverages, Cafe, Desserts",3.9,4413cd48-bcde-4ef1-ba77-d1d8cc782643
+1892,Annapurna Road,Cafe Buddies,"Fast Food, South Indian, Chinese",3.4,ccc3312e-027b-432d-835e-663eca83e264
+1893,Sapna Sangeeta,Dyno Kitchen,"North Indian, Fast Food",3.8,79b0cc00-7cfd-454f-ae64-5a153802e6af
+1896,"BCM Heights, Vijay Nagar",Sankalp,South Indian,3.6,a213de0f-7cc9-45e7-9095-d54c765ce53e
+1898,By Pass Road (North),JMB,"North Indian, Chinese, Street Food, Mithai",3.7,5daf176c-eec9-4859-b1c6-e935f7df757b
+1903,Airport Road,Nema's Food Island,"North Indian, Fast Food",2.9,d6649206-8684-4f2d-a0aa-27ff755625f5
+1904,Vijay Nagar,Leaves & Loafs Cafe & Bakery,"North Indian, Chinese, Italian, Healthy Food, Desserts, Bakery",4,46758831-85f5-44d9-88f3-6d063adefecc
+1905,Vijay Nagar,Dash Parathas,"Fast Food, North Indian",3.8,61acb59b-65cf-4a65-b9f4-7a685dbf2199
+1909,Vijay Nagar,Chilli Grill,"North Indian, Chinese",4,ae7650d9-e95c-4a4e-ab4c-e39cfe0f4bf7
+1911,Old Palasia,Icy Spicy,"South Indian, Fast Food",3,e11d1bac-60eb-43ce-96b4-672d4c5e6955
+1914,HIG-LIG,Royal Sandwich,"Sandwich, Fast Food",4,4b8288dc-3ca6-4725-9ed4-01fd259e60ac
+1915,Vijay Nagar,Anand Shree Fruit Bonanza,"South Indian, Chinese, Continental, Street Food",4,ce178a75-da47-4d1e-aa55-237962bcd5e9
+1916,Vijay Nagar,Patang - Hotel Daksh Residency,"North Indian, Mughlai, Chinese, Fast Food",4.1,165969c4-7c2e-416b-82da-5b229f8f1b41
+1917,Bhawar Kuan,Panna Restaurant,"North Indian, Chinese, South Indian",3.7,e6cc6efb-9d66-4e10-bab4-4f3e8f375cf5
+1918,Chhavani,Central Coffee House,"Fast Food, Coffee",4,739a9a71-61ad-4c2c-b36b-376b8d887a5b
+1921,Old Palasia,Cafe Udipi,South Indian,4.1,6f93ae15-ed27-4745-b82a-60bddce19e63
+1923,Annapurna Road,Meals Lab,"North Indian, Chinese, Continental",3.9,9688dcad-f1c3-4223-bce6-740a72b1494c
+1924,HIG-LIG,Mr. Egg King,"Fast Food, Street Food, North Indian",3.7,ade59b93-4167-4ce5-a7ad-ee2192ef5bc6
+1925,Old Palasia,The Samosa State,"Chinese, Street Food",4,08ec061f-21a4-450c-a505-834d6042d1fa
+1926,Vijay Nagar,Mr. Tiffins,"North Indian, Fast Food, Sandwich",3.3,3421f7c0-4656-4748-a4b6-f55c654cb64c
+2584,Sarafa Bazaar,Sawariya Chaat House,Street Food,4,01512907-0abd-459d-93b8-098adcc718ad
+2585,New Palasia,Vrindavan Corn Choupati,"Fast Food, Street Food",3.6,f280c553-bdc9-4dcf-ad9c-57af9ba845c0
+2586,"56 Dukan, New Palasia",The Chicken Company,"Fast Food, Street Food",2.9,9ebe9fb4-c8fa-4679-ba72-bd1926c69829
+2587,"56 Dukan, New Palasia",Bittu's Dahi Bada,"Beverages, Fast Food, Street Food",3.5,2e584328-cac3-442c-b2cb-656e7e6b851d
+2630,Vijay Nagar,Fresh Serve Dine & Cafe,"North Indian, Fast Food, Sandwich, Coffee, Tea",4,d634dafb-061c-439f-81f9-2dd8956c86ae
+2631,Airport Road,Desi Tadka,"North Indian, Fast Food",3.5,374f3868-bbe8-4943-a7be-acad9cda1867
+2632,By Pass Road (North),Seasoning,"North Indian, Chinese",3.7,85c33dab-0554-4c24-bf59-cb191e65e769
+2633,Papaya Tree Hotel,Chulha - Papaya Tree Hotel,"North Indian, Chinese",3.9,290c2626-8376-44da-89e9-468429987533
+2634,Old Palasia,The High Garden,"Chinese, Fast Food",3.8,a3102cd4-0f0e-4191-95b0-2b14d3294a65
+2635,Vijay Nagar,Food Fantasy,North Indian,3.8,756193a1-45da-410f-a347-3ea67ee93569
+2636,Rau,A3 Family Restaurant,North Indian,3.8,2d22e2a4-f842-460d-8455-e63607811a88
+2670,New Palasia,Magik 24*7,"North Indian, Fast Food",3.8,71bc0e16-b83a-48ab-88a7-17277739192c
+2671,Rau,Dip N Dine,North Indian,3.7,82515de9-dafa-4fbc-b998-0cf3cdb4a64a
+2672,Vijay Nagar,Sigda,North Indian,3.6,c4505dc5-f00d-4a31-93f8-bc2b6021f13d
+2687,New Palasia,Ice Balls & Slice Square,"Sandwich, Fast Food, Ice Cream",4.1,cb234b41-2f77-4533-9664-5a97dbfb1511
+2688,Vijay Nagar,Khana on Choice,"North Indian, Chinese, Italian",3.7,53c83357-f524-4b54-bbb7-06043b18b357
+2700,Vijay Nagar,Diners Park,"North Indian, Chinese",3.5,c9bf8e2f-45a0-4002-9efb-918cb465f224
+2710,"Hotel Crown Palace, South Tukoganj",Golden Treat,"North Indian, Chinese",3.8,b06d0a5c-021d-40e2-80d7-c6e5fa9e11e1
+2727,Vijay Nagar,Sizzling Barbeque by Zafri,"North Indian, BBQ",3.7,ff09a38d-b907-4841-a8da-28e249076d54
+2728,Vijay Nagar,Pinto's Kitchen,"North Indian, Chinese, Biryani",3.8,52e44b54-5f0e-4393-a7cc-44e3ef0d4557
+2730,Vijay Nagar,Solitaire Restaurant,"North Indian, Chinese",4,b7aa71d0-7cdc-431a-be38-736a31badaf3
+2731,Vijay Nagar,Go4Meal by Teashack,"North Indian, Chinese",3.6,78110d6f-a8b1-4f68-a44e-cf2765421a31
+2749,South Tukoganj,Lotus Hut,Fast Food,3.9,11668e49-f469-4ce6-aed1-24ee81284455
+2750,New Palasia,F.Y.I,"Fast Food, South Indian, Chinese",3.9,b9008d84-a22c-4d7a-a5f1-562005fdfa11
+2776,Khajrana,Galliyara Restaurant,"North Indian, Chinese",3.8,a1e0f3e4-053e-4b76-a6cf-9c28a1ecf488
+2778,Vijay Nagar,Tadka Laga,"North Indian, Fast Food, Chinese",3.6,0cd205df-dd5f-4554-97c9-8f7fe576da32
+2837,By Pass Road (North),Arora's Central Kitchen,"North Indian, Chinese, Fast Food",3.9,1cf637be-635c-458a-9280-30f8127f2c75
+2838,RNT Marg,Neelkanth Restaurant,North Indian,3.7,84c51220-54de-46a4-9d71-336de1109e66
